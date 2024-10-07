@@ -1,0 +1,1001 @@
+﻿invoice_id,branch,city,customer_type,gender,product_line,unit_price,quantity,total,date,time,payment_method,rating
+750-67-8428,D,San Jose,Member,Female,Health and beauty,74.69,7,548.97,05/01/19,13:08:00,Ewallet,9.1
+226-31-3081,A,Philadelphia,Normal,Female,Electronic accessories,15.28,5,80.22,08/03/19,10:29:00,Cash,9.6
+631-41-3108,A,Phoenix,Normal,Male,Home and lifestyle,46.33,7,340.53,03/03/19,13:23:00,Credit card,7.4
+123-19-1176,B,New York,Member,Male,Health and beauty,58.22,8,489.05,27/01/19,20:33:00,Ewallet,8.4
+373-73-7910,A,Chicago,Normal,Male,Sports and travel,86.31,7,634.38,08/02/19,10:37:00,Ewallet,5.3
+699-14-3026,B,Philadelphia,Normal,Male,Electronic accessories,85.39,7,627.62,25/03/19,18:30:00,Ewallet,4.1
+355-53-5943,C,Los Angeles,Member,Female,Electronic accessories,68.84,6,433.69,25/02/19,14:36:00,Ewallet,5.8
+315-22-5665,D,Philadelphia,Normal,Female,Home and lifestyle,73.56,10,772.38,24/02/19,11:38:00,Ewallet,8
+665-32-9167,A,New York,Member,Female,Health and beauty,36.26,2,76.15,10/01/19,17:15:00,Credit card,7.2
+692-92-5582,A,Philadelphia,Member,Female,Food and beverages,54.84,3,172.75,20/02/19,13:27:00,Credit card,5.9
+351-62-0822,D,Chicago,Member,Female,Fashion accessories,14.48,4,60.82,06/02/19,18:07:00,Ewallet,4.5
+529-56-3974,A,Dallas,Member,Male,Electronic accessories,25.51,4,107.14,09/03/19,17:03:00,Cash,6.8
+365-64-0515,C,New York,Normal,Female,Electronic accessories,46.95,5,246.49,12/02/19,10:25:00,Ewallet,7.1
+252-56-2699,B,Chicago,Normal,Male,Food and beverages,43.19,10,453.50,07/02/19,16:48:00,Ewallet,8.2
+829-34-3910,C,San Diego,Normal,Female,Health and beauty,71.38,10,749.49,29/03/19,19:21:00,Cash,5.7
+299-46-1805,B,New York,Member,Female,Sports and travel,93.72,6,590.44,15/01/19,16:19:00,Cash,4.5
+656-95-9349,B,Los Angeles,Member,Female,Health and beauty,68.93,7,506.64,11/03/19,11:03:00,Credit card,4.6
+765-26-6951,C,Houston,Normal,Male,Sports and travel,72.61,6,457.44,01/01/19,10:39:00,Credit card,6.9
+329-62-1586,C,Phoenix,Normal,Male,Food and beverages,54.67,3,172.21,21/01/19,18:00:00,Credit card,8.6
+319-50-3348,E,San Jose,Normal,Female,Home and lifestyle,40.3,2,84.63,11/03/19,15:30:00,Ewallet,4.4
+300-71-4605,D,San Diego,Member,Male,Electronic accessories,86.04,5,451.71,25/02/19,11:24:00,Ewallet,4.8
+371-85-5789,A,New York,Normal,Male,Health and beauty,87.98,3,277.14,05/03/19,10:40:00,Ewallet,5.1
+273-16-6619,C,Philadelphia,Normal,Male,Home and lifestyle,33.2,2,69.72,15/03/19,12:20:00,Credit card,4.4
+636-48-8204,A,New York,Normal,Male,Electronic accessories,34.56,5,181.44,17/02/19,11:15:00,Ewallet,9.9
+549-59-1358,C,San Diego,Member,Male,Sports and travel,88.63,3,279.18,02/03/19,17:36:00,Ewallet,6
+227-03-5010,B,San Diego,Member,Female,Home and lifestyle,52.59,8,441.76,22/03/19,19:20:00,Credit card,8.5
+649-29-6775,C,Chicago,Normal,Male,Fashion accessories,33.52,1,35.20,08/02/19,15:31:00,Cash,6.7
+189-17-4241,A,Houston,Normal,Female,Fashion accessories,87.67,2,184.11,10/03/19,12:17:00,Credit card,7.7
+145-94-9061,A,Phoenix,Normal,Female,Food and beverages,88.36,5,463.89,25/01/19,19:48:00,Cash,9.6
+848-62-7243,C,Dallas,Normal,Male,Health and beauty,24.89,9,235.21,15/03/19,15:36:00,Cash,7.4
+871-79-8483,D,Houston,Normal,Male,Fashion accessories,94.13,5,494.18,25/02/19,19:39:00,Credit card,4.8
+149-71-6266,D,San Antonio,Member,Male,Sports and travel,78.07,9,737.76,28/01/19,12:43:00,Cash,4.5
+640-49-2076,B,Phoenix,Normal,Male,Sports and travel,83.78,8,703.75,10/01/19,14:49:00,Cash,5.1
+595-11-5460,E,New York,Normal,Male,Health and beauty,96.58,2,202.82,15/03/19,10:12:00,Credit card,5.1
+183-56-6882,B,San Jose,Member,Female,Food and beverages,99.42,4,417.56,06/02/19,10:42:00,Ewallet,7.5
+232-16-2483,E,Philadelphia,Member,Female,Sports and travel,68.12,1,71.53,07/01/19,12:28:00,Ewallet,6.8
+129-29-8530,D,San Diego,Member,Male,Sports and travel,62.62,5,328.76,10/03/19,19:15:00,Ewallet,7
+272-65-1806,A,Philadelphia,Normal,Female,Electronic accessories,60.88,9,575.32,15/01/19,17:17:00,Ewallet,4.7
+333-73-7901,D,San Antonio,Normal,Female,Health and beauty,54.92,8,461.33,23/03/19,13:24:00,Ewallet,7.6
+777-82-7220,A,San Antonio,Member,Male,Home and lifestyle,30.12,8,253.01,03/03/19,13:01:00,Cash,7.7
+280-35-5823,D,Chicago,Member,Female,Home and lifestyle,86.72,1,91.06,17/01/19,18:45:00,Ewallet,7.9
+554-53-8700,C,San Diego,Member,Male,Home and lifestyle,56.11,2,117.83,02/02/19,10:11:00,Cash,6.3
+354-25-5821,E,Los Angeles,Member,Female,Sports and travel,69.12,6,435.46,08/02/19,13:03:00,Cash,5.6
+228-96-1411,A,Dallas,Member,Female,Food and beverages,98.7,8,829.08,04/03/19,20:39:00,Cash,7.6
+617-15-4209,A,San Jose,Member,Male,Health and beauty,15.37,2,32.28,16/03/19,19:47:00,Cash,7.2
+132-32-9879,E,San Jose,Member,Female,Electronic accessories,93.96,4,394.63,09/03/19,18:00:00,Cash,9.5
+370-41-7321,E,San Jose,Member,Male,Health and beauty,56.69,9,535.72,27/02/19,17:24:00,Credit card,8.4
+727-46-3608,D,San Antonio,Member,Female,Food and beverages,20.01,9,189.09,06/02/19,15:47:00,Ewallet,4.1
+669-54-1719,E,Chicago,Member,Male,Electronic accessories,18.93,6,119.26,10/02/19,12:45:00,Credit card,8.1
+574-22-5561,A,Phoenix,Member,Female,Fashion accessories,82.63,10,867.62,19/03/19,17:08:00,Ewallet,7.9
+326-78-5178,C,Los Angeles,Member,Male,Food and beverages,91.4,7,671.79,03/02/19,10:19:00,Cash,9.5
+162-48-8011,E,Chicago,Member,Female,Food and beverages,44.59,5,234.10,10/02/19,15:10:00,Cash,8.5
+616-24-2851,C,San Diego,Member,Female,Fashion accessories,17.87,4,75.05,22/03/19,14:42:00,Ewallet,6.5
+778-71-5554,C,Los Angeles,Member,Male,Fashion accessories,15.43,1,16.20,25/01/19,15:46:00,Credit card,6.1
+242-55-6721,B,Los Angeles,Normal,Male,Home and lifestyle,16.16,2,33.94,07/03/19,11:49:00,Ewallet,6.5
+399-46-5918,D,San Antonio,Normal,Female,Electronic accessories,85.98,8,722.23,28/02/19,19:01:00,Cash,8.2
+106-35-6779,C,Dallas,Member,Male,Home and lifestyle,44.34,2,93.11,27/03/19,11:26:00,Cash,5.8
+635-40-6220,D,Los Angeles,Normal,Male,Health and beauty,89.6,8,752.64,07/02/19,11:28:00,Ewallet,6.6
+817-48-8732,D,New York,Member,Female,Home and lifestyle,72.35,10,759.68,20/01/19,15:55:00,Cash,5.4
+120-06-4233,B,New York,Normal,Male,Electronic accessories,30.61,6,192.84,12/03/19,20:36:00,Cash,9.3
+285-68-5083,A,Phoenix,Member,Female,Sports and travel,24.74,3,77.93,15/02/19,17:47:00,Credit card,10
+803-83-5989,C,San Jose,Normal,Male,Home and lifestyle,55.73,6,351.10,24/02/19,10:55:00,Ewallet,7
+347-34-2234,B,Los Angeles,Member,Female,Sports and travel,55.07,9,520.41,03/02/19,13:40:00,Ewallet,10
+199-75-8169,A,San Diego,Member,Male,Sports and travel,15.81,10,166.01,06/03/19,12:27:00,Credit card,8.6
+853-23-2453,A,Phoenix,Member,Male,Health and beauty,75.74,4,318.11,14/02/19,14:35:00,Cash,7.6
+877-22-3308,B,Houston,Member,Male,Health and beauty,15.87,10,166.64,13/03/19,16:40:00,Cash,5.8
+838-78-4295,B,Philadelphia,Normal,Female,Health and beauty,33.47,2,70.29,10/02/19,15:43:00,Ewallet,6.7
+109-28-2512,D,Phoenix,Member,Female,Fashion accessories,97.61,6,614.94,07/01/19,15:01:00,Ewallet,9.9
+232-11-3025,A,San Jose,Normal,Male,Sports and travel,78.77,10,827.09,24/01/19,10:04:00,Cash,6.4
+382-03-4532,C,New York,Member,Female,Health and beauty,18.33,1,19.25,02/02/19,18:50:00,Cash,4.3
+393-65-2792,D,Philadelphia,Normal,Male,Food and beverages,89.48,10,939.54,06/01/19,12:46:00,Credit card,9.6
+796-12-2025,B,San Jose,Normal,Male,Fashion accessories,62.12,10,652.26,11/02/19,16:19:00,Cash,5.9
+510-95-6347,C,New York,Member,Female,Food and beverages,48.52,3,152.84,05/03/19,18:17:00,Ewallet,4
+841-35-6630,A,San Diego,Normal,Female,Electronic accessories,75.91,6,478.23,09/03/19,18:21:00,Cash,8.7
+287-21-9091,B,Dallas,Normal,Male,Home and lifestyle,74.67,9,705.63,22/01/19,10:55:00,Ewallet,9.4
+732-94-0499,E,Dallas,Normal,Female,Electronic accessories,41.65,10,437.33,13/01/19,17:04:00,Credit card,5.4
+263-10-3913,E,Philadelphia,Member,Male,Fashion accessories,49.04,9,463.43,09/01/19,14:20:00,Credit card,8.6
+381-20-0914,D,Phoenix,Member,Female,Fashion accessories,20.01,9,189.09,12/01/19,15:48:00,Credit card,5.7
+829-49-1914,E,Phoenix,Member,Female,Food and beverages,78.31,10,822.26,05/03/19,16:24:00,Ewallet,6.6
+756-01-7507,B,Houston,Normal,Female,Health and beauty,20.38,5,107.00,22/01/19,18:56:00,Cash,6
+870-72-4431,A,Phoenix,Normal,Female,Health and beauty,99.19,6,624.90,21/01/19,14:42:00,Credit card,5.5
+847-38-7188,C,San Antonio,Normal,Female,Food and beverages,96.68,3,304.54,26/01/19,19:56:00,Ewallet,6.4
+480-63-2856,D,Houston,Normal,Male,Food and beverages,19.25,8,161.70,23/01/19,18:37:00,Ewallet,6.6
+787-56-0757,D,Philadelphia,Member,Female,Food and beverages,80.36,4,337.51,23/02/19,18:45:00,Credit card,8.3
+360-39-5055,C,Phoenix,Member,Male,Sports and travel,48.91,5,256.78,09/03/19,10:17:00,Cash,6.6
+730-50-9884,C,Phoenix,Normal,Female,Sports and travel,83.06,7,610.49,05/03/19,14:31:00,Ewallet,4
+362-58-8315,A,Philadelphia,Normal,Male,Fashion accessories,76.52,5,401.73,25/03/19,10:23:00,Cash,9.9
+633-44-8566,E,Los Angeles,Member,Male,Food and beverages,49.38,7,362.94,27/03/19,20:35:00,Credit card,7.3
+504-35-8843,A,Philadelphia,Normal,Male,Sports and travel,42.47,1,44.59,02/01/19,16:57:00,Cash,5.7
+318-68-5053,A,Philadelphia,Normal,Female,Health and beauty,76.99,6,485.04,27/02/19,17:55:00,Cash,6.1
+565-80-5980,C,San Antonio,Member,Female,Home and lifestyle,47.38,4,199.00,23/01/19,10:25:00,Cash,7.1
+225-32-0908,B,Houston,Normal,Female,Sports and travel,44.86,10,471.03,26/01/19,19:54:00,Ewallet,8.2
+873-51-0671,A,New York,Member,Female,Sports and travel,21.98,7,161.55,10/01/19,16:42:00,Ewallet,5.1
+152-08-9985,E,Houston,Member,Male,Health and beauty,64.36,9,608.20,12/03/19,12:09:00,Credit card,8.6
+512-91-0811,A,San Diego,Normal,Male,Health and beauty,89.75,1,94.24,06/02/19,20:05:00,Credit card,6.6
+594-34-4444,B,Los Angeles,Normal,Male,Electronic accessories,97.16,1,102.02,08/03/19,20:38:00,Ewallet,7.2
+766-85-7061,A,Chicago,Normal,Male,Health and beauty,87.87,10,922.64,29/03/19,10:25:00,Ewallet,5.1
+871-39-9221,B,Chicago,Normal,Female,Electronic accessories,12.45,6,78.44,09/02/19,13:11:00,Cash,4.1
+865-92-6136,E,Philadelphia,Normal,Male,Food and beverages,52.75,3,166.16,23/03/19,10:16:00,Ewallet,9.3
+733-01-9107,D,Los Angeles,Normal,Male,Home and lifestyle,82.7,6,521.01,05/03/19,18:14:00,Cash,7.4
+163-56-7055,E,San Antonio,Member,Male,Fashion accessories,48.71,1,51.15,26/03/19,19:20:00,Cash,4.1
+189-98-2939,C,San Jose,Normal,Male,Fashion accessories,78.55,9,742.30,01/03/19,13:22:00,Cash,7.2
+551-21-3069,B,San Diego,Normal,Female,Electronic accessories,23.07,9,218.01,01/02/19,11:27:00,Cash,4.9
+212-62-1842,E,New York,Normal,Male,Food and beverages,58.26,6,367.04,28/03/19,16:44:00,Cash,9.9
+716-39-1409,A,San Jose,Normal,Male,Health and beauty,30.35,7,223.07,19/03/19,18:19:00,Cash,8
+704-48-3927,E,Dallas,Member,Male,Electronic accessories,88.67,10,931.04,12/01/19,14:50:00,Ewallet,7.3
+628-34-3388,B,Los Angeles,Normal,Male,Fashion accessories,27.38,6,172.49,05/01/19,20:54:00,Credit card,7.9
+630-74-5166,B,New York,Normal,Male,Sports and travel,62.13,6,391.42,22/03/19,20:19:00,Cash,7.4
+588-01-7461,D,San Antonio,Normal,Female,Food and beverages,33.98,9,321.11,24/03/19,10:43:00,Cash,4.2
+861-77-0145,E,Houston,Member,Male,Electronic accessories,81.97,10,860.69,03/03/19,14:30:00,Cash,9.2
+479-26-8945,C,San Diego,Member,Female,Sports and travel,16.49,2,34.63,05/02/19,11:32:00,Ewallet,4.6
+210-67-5886,D,Philadelphia,Member,Female,Health and beauty,98.21,3,309.36,05/02/19,10:41:00,Credit card,7.8
+227-78-1148,D,San Jose,Normal,Female,Fashion accessories,72.84,7,535.37,15/02/19,12:44:00,Cash,8.4
+645-44-1170,C,Chicago,Member,Male,Home and lifestyle,58.07,9,548.76,19/01/19,20:07:00,Ewallet,4.3
+237-01-6122,C,Dallas,Member,Female,Home and lifestyle,80.79,9,763.47,01/02/19,20:31:00,Credit card,9.5
+225-98-1496,E,San Diego,Normal,Female,Fashion accessories,27.02,3,85.11,02/03/19,13:01:00,Credit card,7.1
+291-32-1427,C,San Jose,Member,Male,Fashion accessories,21.94,5,115.19,05/03/19,12:29:00,Ewallet,5.3
+659-65-8956,E,Philadelphia,Member,Male,Fashion accessories,51.36,1,53.93,16/01/19,15:26:00,Ewallet,5.2
+642-32-2990,B,San Diego,Normal,Female,Food and beverages,10.96,10,115.08,02/02/19,20:48:00,Ewallet,6
+378-24-2715,B,Philadelphia,Normal,Male,Home and lifestyle,53.44,2,112.22,20/01/19,20:38:00,Ewallet,4.1
+638-60-7125,C,San Diego,Normal,Female,Electronic accessories,99.56,8,836.30,14/02/19,17:03:00,Credit card,5.2
+659-36-1684,C,Phoenix,Member,Male,Sports and travel,57.12,7,419.83,12/01/19,12:02:00,Credit card,6.5
+219-22-9386,D,Philadelphia,Member,Male,Sports and travel,99.96,9,944.62,09/03/19,17:26:00,Credit card,4.2
+336-78-2147,A,Chicago,Member,Male,Home and lifestyle,63.91,8,536.84,13/03/19,19:52:00,Credit card,4.6
+268-27-6179,D,Los Angeles,Member,Female,Fashion accessories,56.47,8,474.35,09/03/19,14:57:00,Ewallet,7.3
+668-90-8900,A,San Diego,Normal,Female,Home and lifestyle,93.69,7,688.62,10/03/19,18:44:00,Credit card,4.5
+870-54-3162,E,San Diego,Normal,Female,Sports and travel,32.25,5,169.31,27/01/19,13:26:00,Cash,9
+189-08-9157,C,Dallas,Normal,Female,Fashion accessories,31.73,9,299.85,08/01/19,16:17:00,Credit card,5.9
+663-86-9076,A,Philadelphia,Member,Female,Food and beverages,68.54,8,575.74,08/01/19,15:57:00,Ewallet,8.5
+549-84-7482,D,San Jose,Normal,Female,Sports and travel,90.28,9,853.15,08/02/19,11:15:00,Ewallet,7.2
+191-10-6171,D,San Jose,Normal,Female,Fashion accessories,39.62,7,291.21,25/01/19,13:18:00,Cash,7.5
+802-70-5316,E,San Antonio,Member,Female,Sports and travel,92.13,6,580.42,06/03/19,20:34:00,Cash,8.3
+695-51-0018,A,San Antonio,Normal,Female,Sports and travel,34.84,4,146.33,10/02/19,18:36:00,Cash,7.4
+590-83-4591,E,Houston,Member,Male,Electronic accessories,87.45,6,550.94,17/02/19,14:40:00,Credit card,8.8
+483-71-1164,C,San Diego,Normal,Female,Health and beauty,81.3,6,512.19,08/03/19,16:43:00,Ewallet,5.3
+597-78-7908,B,San Diego,Normal,Male,Fashion accessories,90.22,3,284.19,18/02/19,19:39:00,Cash,6.2
+700-81-1757,B,Dallas,Normal,Female,Electronic accessories,26.31,5,138.13,18/01/19,20:59:00,Credit card,8.8
+354-39-5160,B,Chicago,Member,Female,Home and lifestyle,34.42,6,216.85,18/02/19,15:39:00,Cash,9.8
+241-72-9525,B,San Diego,Normal,Male,Sports and travel,51.91,10,545.06,16/02/19,12:21:00,Cash,8.2
+575-30-8091,A,Los Angeles,Normal,Male,Sports and travel,72.5,8,609.00,16/03/19,19:25:00,Ewallet,9.2
+731-81-9469,D,Chicago,Member,Female,Sports and travel,89.8,10,942.90,23/01/19,13:00:00,Credit card,5.4
+280-17-4359,A,San Jose,Member,Male,Health and beauty,90.5,10,950.25,25/01/19,13:48:00,Cash,8.1
+338-65-2210,B,San Jose,Member,Female,Health and beauty,68.6,10,720.30,05/02/19,19:57:00,Cash,9.1
+488-25-4221,C,New York,Member,Female,Food and beverages,30.41,1,31.93,22/02/19,10:36:00,Credit card,8.4
+239-10-7476,D,Chicago,Normal,Female,Home and lifestyle,77.95,6,491.09,21/01/19,16:37:00,Ewallet,8
+458-41-1477,A,Phoenix,Normal,Female,Health and beauty,46.26,6,291.44,08/03/19,17:11:00,Credit card,9.5
+685-64-1609,A,San Diego,Member,Female,Fashion accessories,30.14,10,316.47,10/02/19,12:28:00,Ewallet,9.2
+568-90-5112,C,Chicago,Normal,Male,Health and beauty,66.14,4,277.79,19/03/19,12:46:00,Credit card,5.6
+262-47-2794,D,Chicago,Member,Male,Home and lifestyle,71.86,8,603.62,06/03/19,15:07:00,Credit card,6.2
+238-49-0436,A,Los Angeles,Normal,Male,Health and beauty,32.46,8,272.66,27/03/19,13:48:00,Credit card,4.9
+608-96-3517,A,San Antonio,Member,Female,Fashion accessories,91.54,4,384.47,23/03/19,19:20:00,Credit card,4.8
+584-86-7256,C,San Diego,Member,Male,Sports and travel,34.56,7,254.02,11/03/19,16:07:00,Credit card,7.3
+746-94-0204,E,San Diego,Normal,Male,Fashion accessories,83.24,9,786.62,29/01/19,11:56:00,Credit card,7.4
+214-17-6927,B,San Diego,Normal,Female,Food and beverages,16.48,6,103.82,07/02/19,18:23:00,Ewallet,9.9
+400-89-4171,C,San Antonio,Normal,Female,Sports and travel,80.97,8,680.15,28/01/19,13:05:00,Cash,9.3
+782-95-9291,E,Phoenix,Member,Male,Food and beverages,92.29,5,484.52,20/02/19,15:55:00,Credit card,9
+279-74-2924,E,San Diego,Member,Male,Electronic accessories,72.17,1,75.78,04/01/19,19:40:00,Cash,6.1
+307-85-2293,C,Houston,Normal,Male,Home and lifestyle,50.28,5,263.97,07/03/19,13:58:00,Ewallet,9.7
+743-04-1105,A,Phoenix,Member,Male,Health and beauty,97.22,9,918.73,30/03/19,14:43:00,Ewallet,6
+423-57-2993,C,Los Angeles,Normal,Male,Sports and travel,93.39,6,588.36,27/03/19,19:18:00,Ewallet,10
+894-41-5205,C,San Jose,Normal,Female,Food and beverages,43.18,8,362.71,19/01/19,19:39:00,Credit card,8.3
+275-28-0149,E,San Antonio,Normal,Male,Sports and travel,63.69,1,66.87,25/02/19,16:21:00,Cash,6
+101-17-6199,D,New York,Normal,Male,Food and beverages,45.79,7,336.56,13/03/19,19:44:00,Credit card,7
+423-80-0988,E,Phoenix,Normal,Male,Sports and travel,76.4,2,160.44,30/01/19,19:42:00,Ewallet,6.5
+548-46-9322,B,Chicago,Normal,Male,Food and beverages,39.9,10,418.95,20/02/19,15:24:00,Credit card,5.9
+505-02-0892,D,New York,Member,Male,Health and beauty,42.57,8,357.59,25/02/19,14:12:00,Ewallet,5.6
+234-65-2137,C,Chicago,Normal,Male,Home and lifestyle,95.58,10,1003.59,16/01/19,13:32:00,Cash,4.8
+687-47-8271,E,Houston,Normal,Male,Fashion accessories,98.98,10,1039.29,08/02/19,16:20:00,Credit card,8.7
+796-32-9050,C,San Diego,Normal,Male,Food and beverages,51.28,6,323.06,19/01/19,16:31:00,Cash,6.5
+105-31-1824,C,Houston,Member,Male,Sports and travel,69.52,7,510.97,01/02/19,15:10:00,Credit card,8.5
+249-42-3782,E,Chicago,Normal,Male,Health and beauty,70.01,5,367.55,03/01/19,11:36:00,Ewallet,5.5
+316-55-4634,C,New York,Member,Male,Food and beverages,80.05,5,420.26,26/01/19,12:45:00,Credit card,9.4
+733-33-4967,E,Chicago,Normal,Male,Electronic accessories,20.85,8,175.14,03/03/19,19:17:00,Cash,6.3
+608-27-6295,E,San Diego,Member,Male,Electronic accessories,52.89,6,333.21,19/01/19,17:34:00,Credit card,9.8
+414-12-7047,D,Phoenix,Normal,Male,Food and beverages,19.79,8,166.24,18/01/19,12:04:00,Ewallet,8.7
+827-26-2100,E,Chicago,Member,Male,Home and lifestyle,33.84,9,319.79,21/03/19,16:21:00,Ewallet,8.8
+175-54-2529,D,Philadelphia,Member,Male,Food and beverages,22.17,8,186.23,03/03/19,17:01:00,Credit card,9.6
+139-52-2867,D,Chicago,Normal,Female,Fashion accessories,22.51,7,165.45,13/02/19,10:50:00,Credit card,4.8
+407-63-8975,D,Phoenix,Normal,Male,Food and beverages,73.88,6,465.44,23/03/19,19:16:00,Ewallet,4.4
+342-65-4817,D,Houston,Member,Male,Health and beauty,86.8,3,273.42,28/01/19,16:47:00,Ewallet,9.9
+130-98-8941,C,San Diego,Normal,Male,Fashion accessories,64.26,7,472.31,09/02/19,10:00:00,Cash,5.7
+434-83-9547,D,San Jose,Member,Male,Food and beverages,38.47,8,323.15,23/01/19,11:51:00,Cash,7.7
+851-28-6367,C,Houston,Member,Male,Sports and travel,15.5,10,162.75,23/03/19,10:55:00,Ewallet,8
+824-88-3614,D,Houston,Normal,Male,Health and beauty,34.31,8,288.20,25/01/19,15:00:00,Ewallet,5.7
+586-25-0848,D,New York,Normal,Female,Sports and travel,12.34,7,90.70,04/03/19,11:19:00,Credit card,6.7
+895-66-0685,D,San Diego,Member,Male,Food and beverages,18.08,3,56.95,05/03/19,19:46:00,Ewallet,8
+305-14-0245,C,Chicago,Member,Female,Home and lifestyle,94.49,8,793.72,03/03/19,19:00:00,Ewallet,7.5
+732-04-5373,C,Los Angeles,Member,Male,Home and lifestyle,46.47,4,195.17,08/02/19,10:53:00,Cash,7
+400-60-7251,E,Chicago,Normal,Male,Home and lifestyle,74.07,1,77.77,10/02/19,12:50:00,Ewallet,9.9
+593-65-1552,E,San Antonio,Normal,Female,Home and lifestyle,69.81,4,293.20,28/01/19,20:50:00,Credit card,5.9
+284-34-9626,C,San Antonio,Normal,Female,Home and lifestyle,77.04,3,242.68,11/02/19,10:39:00,Credit card,7.2
+437-58-8131,C,Philadelphia,Normal,Female,Fashion accessories,73.52,2,154.39,15/01/19,13:41:00,Ewallet,4.6
+286-43-6208,D,Chicago,Normal,Female,Food and beverages,87.8,9,829.71,16/03/19,19:08:00,Cash,9.2
+641-43-2399,C,Philadelphia,Normal,Male,Home and lifestyle,25.55,4,107.31,26/01/19,20:23:00,Ewallet,5.7
+831-07-6050,C,San Diego,Normal,Male,Electronic accessories,32.71,5,171.73,19/03/19,11:30:00,Credit card,9.9
+556-86-3144,D,San Jose,Member,Female,Fashion accessories,74.29,1,78.00,13/01/19,19:30:00,Cash,5
+848-24-9445,C,New York,Member,Male,Health and beauty,43.7,2,91.77,26/03/19,18:03:00,Cash,4.9
+856-22-8149,E,San Jose,Normal,Female,Home and lifestyle,25.29,1,26.55,23/03/19,10:13:00,Ewallet,6.1
+699-01-4164,E,Phoenix,Normal,Male,Health and beauty,41.5,4,174.30,12/03/19,19:58:00,Credit card,8.2
+420-11-4919,C,Los Angeles,Member,Female,Food and beverages,71.39,5,374.80,17/02/19,19:57:00,Credit card,5.5
+606-80-4905,C,San Jose,Member,Female,Sports and travel,19.15,6,120.65,29/01/19,10:01:00,Credit card,6.8
+542-41-0513,D,Dallas,Member,Female,Electronic accessories,57.49,4,241.46,15/03/19,11:57:00,Cash,6.6
+426-39-2418,C,New York,Normal,Male,Electronic accessories,61.41,7,451.36,14/01/19,10:02:00,Cash,9.8
+875-46-5808,D,Dallas,Member,Male,Health and beauty,25.9,10,271.95,06/02/19,14:51:00,Ewallet,8.7
+394-43-4238,D,Houston,Member,Male,Home and lifestyle,17.77,5,93.29,15/02/19,12:42:00,Credit card,5.4
+749-24-1565,D,New York,Normal,Female,Health and beauty,23.03,9,217.63,03/01/19,12:02:00,Ewallet,7.9
+672-51-8681,E,San Jose,Member,Female,Electronic accessories,66.65,9,629.84,04/01/19,18:19:00,Credit card,9.7
+263-87-5680,C,San Diego,Member,Female,Home and lifestyle,28.53,10,299.57,18/03/19,17:38:00,Ewallet,7.8
+573-58-9734,E,Phoenix,Normal,Female,Fashion accessories,30.37,3,95.67,28/03/19,13:41:00,Ewallet,5.1
+817-69-8206,C,Philadelphia,Normal,Female,Electronic accessories,99.73,9,942.45,02/03/19,19:42:00,Credit card,6.5
+888-02-0338,D,Houston,Normal,Male,Electronic accessories,26.23,9,247.87,25/01/19,20:24:00,Ewallet,5.9
+677-11-0152,D,Phoenix,Normal,Female,Food and beverages,93.26,9,881.31,16/01/19,18:08:00,Cash,8.8
+142-63-6033,C,San Diego,Normal,Male,Home and lifestyle,92.36,5,484.89,20/03/19,19:17:00,Ewallet,4.9
+656-16-1063,C,Philadelphia,Normal,Male,Sports and travel,46.42,3,146.22,04/01/19,13:24:00,Credit card,4.4
+891-58-8335,D,San Diego,Member,Female,Sports and travel,29.61,7,217.63,11/03/19,15:53:00,Cash,6.5
+802-43-8934,C,Los Angeles,Normal,Male,Home and lifestyle,18.28,1,19.19,22/03/19,15:05:00,Credit card,8.3
+560-30-5617,D,Chicago,Normal,Female,Sports and travel,24.77,5,130.04,24/03/19,18:27:00,Cash,8.5
+319-74-2561,C,Phoenix,Member,Female,Electronic accessories,94.64,3,298.12,21/02/19,16:55:00,Cash,5.5
+549-03-9315,D,San Diego,Normal,Male,Fashion accessories,94.87,8,796.91,12/02/19,12:58:00,Ewallet,8.7
+790-29-1172,E,Los Angeles,Normal,Female,Food and beverages,57.34,3,180.62,10/03/19,18:59:00,Credit card,7.9
+239-36-3640,E,Philadelphia,Normal,Male,Electronic accessories,45.35,6,285.71,31/01/19,13:44:00,Ewallet,6.1
+468-01-2051,C,Philadelphia,Normal,Male,Food and beverages,62.08,7,456.29,06/03/19,13:46:00,Ewallet,5.4
+389-25-3394,D,San Jose,Normal,Male,Electronic accessories,11.81,5,62.00,17/02/19,18:06:00,Cash,9.4
+279-62-1445,C,Philadelphia,Member,Female,Fashion accessories,12.54,1,13.17,21/02/19,12:38:00,Cash,8.2
+213-72-6612,E,Houston,Normal,Male,Food and beverages,43.25,2,90.83,20/03/19,15:56:00,Cash,6.2
+746-68-6593,D,Phoenix,Member,Female,Sports and travel,87.16,2,183.04,11/01/19,14:29:00,Credit card,9.7
+836-82-5858,D,Dallas,Member,Male,Health and beauty,69.37,9,655.55,26/01/19,19:14:00,Ewallet,4
+583-72-1480,C,San Jose,Member,Male,Electronic accessories,37.06,4,155.65,31/01/19,16:24:00,Ewallet,9.7
+466-61-5506,C,San Diego,Member,Female,Electronic accessories,90.7,6,571.41,26/02/19,10:52:00,Cash,5.3
+721-86-6247,C,Phoenix,Normal,Female,Home and lifestyle,63.42,8,532.73,11/03/19,12:55:00,Ewallet,7.4
+289-65-5721,D,San Antonio,Normal,Female,Fashion accessories,81.37,2,170.88,26/01/19,19:28:00,Cash,6.5
+545-46-3100,C,Dallas,Member,Female,Electronic accessories,10.59,3,33.36,12/03/19,13:52:00,Credit card,8.7
+418-02-5978,D,Chicago,Normal,Female,Health and beauty,84.09,9,794.65,11/02/19,10:54:00,Cash,8
+269-04-5750,C,San Antonio,Member,Male,Fashion accessories,73.82,4,310.04,21/02/19,18:31:00,Cash,6.7
+157-13-5295,E,Philadelphia,Member,Male,Health and beauty,51.94,10,545.37,09/03/19,18:24:00,Ewallet,6.5
+645-78-8093,D,Dallas,Normal,Female,Sports and travel,93.14,2,195.59,20/01/19,18:09:00,Ewallet,4.1
+211-30-9270,E,Philadelphia,Normal,Male,Health and beauty,17.41,5,91.40,28/01/19,15:16:00,Credit card,4.9
+755-12-3214,C,Houston,Member,Female,Fashion accessories,44.22,5,232.16,05/03/19,17:07:00,Credit card,8.6
+346-84-3103,D,New York,Member,Female,Electronic accessories,13.22,5,69.41,02/03/19,19:26:00,Cash,4.3
+478-06-7835,D,New York,Normal,Male,Fashion accessories,89.69,1,94.17,11/01/19,11:20:00,Ewallet,4.9
+540-11-4336,C,Dallas,Normal,Male,Food and beverages,24.94,9,235.68,11/01/19,16:49:00,Credit card,5.6
+448-81-5016,C,New York,Normal,Male,Health and beauty,59.77,2,125.52,11/03/19,12:01:00,Credit card,5.8
+142-72-4741,C,New York,Member,Male,Fashion accessories,93.2,2,195.72,28/02/19,18:37:00,Credit card,6
+217-58-1179,D,Dallas,Member,Male,Home and lifestyle,62.65,4,263.13,05/01/19,11:25:00,Cash,4.2
+376-02-8238,D,Chicago,Normal,Male,Home and lifestyle,93.87,8,788.51,02/02/19,18:42:00,Credit card,8.3
+530-90-9855,E,San Diego,Member,Male,Home and lifestyle,47.59,8,399.76,01/01/19,14:47:00,Cash,5.7
+866-05-7563,E,San Diego,Member,Female,Electronic accessories,81.4,3,256.41,09/02/19,19:43:00,Cash,4.8
+604-70-6476,C,Phoenix,Member,Male,Fashion accessories,17.94,5,94.19,23/01/19,14:04:00,Ewallet,6.8
+799-71-1548,D,San Diego,Member,Male,Electronic accessories,77.72,4,326.42,07/01/19,16:11:00,Credit card,8.8
+785-13-7708,A,San Diego,Normal,Male,Food and beverages,73.06,7,536.99,14/01/19,19:06:00,Credit card,4.2
+845-51-0542,B,Dallas,Member,Male,Food and beverages,46.55,9,439.90,02/02/19,15:34:00,Ewallet,6.4
+662-47-5456,B,Dallas,Member,Male,Fashion accessories,35.19,10,369.50,17/03/19,19:06:00,Credit card,8.4
+883-17-4236,B,San Diego,Normal,Female,Sports and travel,14.39,2,30.22,02/03/19,19:44:00,Credit card,7.2
+290-68-2984,D,New York,Normal,Male,Home and lifestyle,23.75,4,99.75,16/03/19,11:22:00,Cash,5.2
+704-11-6354,B,New York,Member,Male,Home and lifestyle,58.9,8,494.76,06/01/19,11:23:00,Cash,8.9
+110-48-7033,B,Dallas,Member,Male,Fashion accessories,32.62,4,137.00,29/01/19,14:12:00,Cash,9
+366-93-0948,A,San Antonio,Member,Male,Electronic accessories,66.35,1,69.67,31/01/19,10:46:00,Credit card,9.7
+729-09-9681,A,Philadelphia,Member,Male,Home and lifestyle,25.91,6,163.23,05/02/19,10:16:00,Ewallet,8.7
+151-16-1484,A,Chicago,Member,Male,Electronic accessories,32.25,4,135.45,13/02/19,12:38:00,Ewallet,6.5
+380-94-4661,E,New York,Member,Male,Electronic accessories,65.94,4,276.95,07/02/19,13:05:00,Credit card,6.9
+850-41-9669,B,Phoenix,Normal,Female,Electronic accessories,75.06,9,709.32,19/03/19,13:25:00,Ewallet,6.2
+821-07-3596,A,Chicago,Normal,Female,Fashion accessories,16.45,4,69.09,07/03/19,14:53:00,Ewallet,5.6
+655-85-5130,E,San Diego,Member,Female,Fashion accessories,38.3,4,160.86,13/03/19,19:22:00,Cash,5.7
+447-15-7839,B,Phoenix,Member,Female,Sports and travel,22.24,10,233.52,09/02/19,11:00:00,Cash,4.2
+154-74-7179,C,San Diego,Normal,Male,Sports and travel,54.45,1,57.17,26/02/19,19:24:00,Ewallet,7.9
+253-12-6086,C,Phoenix,Member,Female,Sports and travel,98.4,7,723.24,12/03/19,12:43:00,Credit card,8.7
+808-65-0703,C,Phoenix,Normal,Male,Home and lifestyle,35.47,4,148.97,14/03/19,17:22:00,Credit card,6.9
+571-94-0759,D,San Diego,Member,Female,Food and beverages,74.6,10,783.30,08/01/19,20:55:00,Cash,9.5
+144-51-6085,E,Philadelphia,Member,Male,Home and lifestyle,70.74,4,297.11,05/01/19,16:05:00,Credit card,4.4
+731-14-2199,D,Dallas,Member,Female,Home and lifestyle,35.54,10,373.17,04/01/19,13:34:00,Ewallet,7
+783-09-1637,B,Philadelphia,Normal,Female,Sports and travel,67.43,5,354.01,06/03/19,18:13:00,Ewallet,6.3
+687-15-1097,B,Los Angeles,Member,Female,Health and beauty,21.12,2,44.35,03/01/19,19:17:00,Cash,9.7
+126-54-1082,E,Dallas,Member,Female,Home and lifestyle,21.54,9,203.55,07/01/19,11:44:00,Credit card,8.8
+633-91-1052,E,Dallas,Normal,Female,Home and lifestyle,12.03,2,25.26,27/01/19,15:51:00,Cash,5.1
+477-24-6490,B,New York,Normal,Female,Health and beauty,99.71,6,628.17,26/02/19,16:52:00,Ewallet,7.9
+566-19-5475,E,San Diego,Normal,Male,Fashion accessories,47.97,7,352.58,07/01/19,20:52:00,Cash,6.2
+526-86-8552,D,Houston,Member,Female,Home and lifestyle,21.82,10,229.11,07/01/19,17:36:00,Cash,7.1
+376-56-3573,D,Philadelphia,Normal,Female,Fashion accessories,95.42,4,400.76,02/02/19,13:23:00,Ewallet,6.4
+537-72-0426,D,New York,Member,Male,Fashion accessories,70.99,10,745.40,20/03/19,16:28:00,Cash,5.7
+828-61-5674,A,Philadelphia,Member,Male,Sports and travel,44.02,10,462.21,20/03/19,19:57:00,Credit card,9.6
+136-08-6195,E,Houston,Normal,Female,Home and lifestyle,69.96,8,587.66,15/02/19,17:01:00,Credit card,6.4
+523-38-0215,B,Dallas,Normal,Male,Home and lifestyle,37,1,38.85,06/03/19,13:29:00,Credit card,7.9
+490-29-1201,C,Phoenix,Normal,Female,Sports and travel,15.34,1,16.11,06/01/19,11:09:00,Cash,6.5
+667-92-0055,D,Chicago,Member,Male,Health and beauty,99.83,6,628.93,04/03/19,15:02:00,Ewallet,8.5
+565-17-3836,A,Phoenix,Member,Female,Health and beauty,47.67,4,200.21,12/03/19,14:21:00,Cash,9.1
+498-41-1961,B,Phoenix,Normal,Male,Health and beauty,66.68,5,350.07,20/02/19,18:01:00,Cash,7.6
+593-95-4461,D,Dallas,Member,Male,Home and lifestyle,74.86,1,78.60,24/03/19,14:49:00,Cash,6.9
+226-71-3580,E,Phoenix,Normal,Female,Sports and travel,23.75,9,224.44,31/01/19,12:02:00,Cash,9.5
+283-79-9594,D,San Antonio,Normal,Female,Food and beverages,48.51,7,356.55,25/01/19,13:30:00,Credit card,5.2
+430-60-3493,E,Los Angeles,Member,Female,Home and lifestyle,94.88,7,697.37,03/02/19,14:38:00,Cash,4.2
+139-20-0155,B,Houston,Member,Male,Electronic accessories,40.3,10,423.15,24/01/19,17:37:00,Credit card,7
+558-80-4082,A,Houston,Normal,Male,Electronic accessories,27.85,7,204.70,14/03/19,17:20:00,Ewallet,6
+278-97-7759,C,San Diego,Member,Female,Electronic accessories,62.48,1,65.60,18/02/19,20:29:00,Cash,4.7
+316-68-6352,D,Houston,Member,Female,Food and beverages,36.36,2,76.36,21/01/19,10:00:00,Cash,7.1
+585-03-5943,C,Dallas,Normal,Male,Health and beauty,18.11,10,190.16,13/03/19,11:46:00,Ewallet,5.9
+211-05-0490,D,New York,Member,Female,Electronic accessories,51.92,5,272.58,03/03/19,13:42:00,Cash,7.5
+727-75-6477,A,Los Angeles,Normal,Male,Electronic accessories,28.84,4,121.13,29/03/19,14:44:00,Cash,6.4
+744-02-5987,C,San Diego,Member,Male,Home and lifestyle,78.38,6,493.79,10/01/19,14:16:00,Ewallet,5.8
+307-83-9164,B,New York,Member,Male,Home and lifestyle,60.01,4,252.04,25/01/19,15:54:00,Cash,4.5
+779-06-0012,C,San Antonio,Member,Female,Home and lifestyle,88.61,1,93.04,19/01/19,10:21:00,Cash,7.7
+446-47-6729,A,Phoenix,Normal,Male,Fashion accessories,99.82,2,209.62,02/01/19,18:09:00,Credit card,6.7
+573-10-3877,E,Houston,Member,Male,Health and beauty,39.01,1,40.96,12/03/19,16:46:00,Credit card,4.7
+735-06-4124,B,Phoenix,Normal,Male,Food and beverages,48.61,1,51.04,25/02/19,15:31:00,Cash,4.4
+439-54-7422,E,San Jose,Normal,Female,Electronic accessories,51.19,4,215.00,18/03/19,17:15:00,Credit card,4.7
+396-90-2219,C,Philadelphia,Normal,Female,Electronic accessories,14.96,8,125.66,23/02/19,12:29:00,Cash,8.6
+411-77-0180,C,San Antonio,Member,Male,Electronic accessories,72.2,7,530.67,26/03/19,20:14:00,Ewallet,4.3
+286-01-5402,C,Dallas,Normal,Female,Sports and travel,40.23,7,295.69,30/03/19,13:22:00,Cash,9.6
+803-17-8013,A,Dallas,Member,Female,Home and lifestyle,88.79,8,745.84,17/02/19,17:09:00,Cash,4.1
+512-98-1403,E,Philadelphia,Member,Female,Electronic accessories,26.48,3,83.41,21/03/19,10:40:00,Ewallet,4.7
+848-42-2560,E,Phoenix,Normal,Female,Fashion accessories,81.91,2,172.01,05/03/19,17:43:00,Cash,7.8
+532-59-7201,D,Dallas,Member,Male,Sports and travel,79.93,6,503.56,31/01/19,14:04:00,Cash,5.5
+181-94-6432,C,Houston,Member,Male,Fashion accessories,69.33,2,145.59,05/02/19,19:05:00,Ewallet,9.7
+870-76-1733,D,San Antonio,Member,Female,Food and beverages,14.23,5,74.71,01/02/19,10:08:00,Credit card,4.4
+423-64-4619,A,New York,Member,Female,Health and beauty,15.55,9,146.95,07/03/19,13:12:00,Cash,5
+227-07-4446,E,Houston,Member,Female,Electronic accessories,78.13,10,820.37,10/02/19,20:51:00,Cash,4.4
+174-36-3675,D,Phoenix,Member,Male,Food and beverages,99.37,2,208.68,14/02/19,17:29:00,Cash,5.2
+428-83-5800,C,New York,Member,Female,Food and beverages,21.08,3,66.40,09/02/19,10:25:00,Cash,7.3
+603-07-0961,D,Phoenix,Member,Male,Electronic accessories,74.79,5,392.65,10/01/19,11:34:00,Cash,4.9
+704-20-4138,D,New York,Member,Female,Health and beauty,29.67,7,218.07,11/03/19,18:58:00,Credit card,8.1
+787-15-1757,E,Phoenix,Member,Male,Health and beauty,44.07,4,185.09,18/02/19,16:28:00,Ewallet,8.4
+649-11-3678,E,San Jose,Normal,Female,Food and beverages,22.93,9,216.69,26/02/19,20:26:00,Cash,5.5
+622-20-1945,E,New York,Normal,Female,Health and beauty,39.42,1,41.39,18/01/19,15:08:00,Cash,8.4
+372-94-8041,A,San Diego,Normal,Male,Health and beauty,15.26,6,96.14,15/02/19,18:03:00,Ewallet,9.8
+563-91-7120,E,Philadelphia,Normal,Female,Fashion accessories,61.77,5,324.29,08/03/19,13:21:00,Cash,6.7
+746-54-5508,C,Philadelphia,Normal,Male,Home and lifestyle,21.52,6,135.58,17/01/19,12:48:00,Credit card,9.4
+276-54-0879,E,Chicago,Normal,Male,Sports and travel,97.74,4,410.51,12/03/19,19:53:00,Ewallet,6.4
+815-11-1168,B,San Jose,Member,Male,Food and beverages,99.78,5,523.85,09/03/19,19:09:00,Cash,5.4
+719-76-3868,A,San Jose,Member,Male,Food and beverages,94.26,4,395.89,12/03/19,16:30:00,Cash,8.6
+730-61-8757,A,San Antonio,Member,Male,Health and beauty,51.13,4,214.75,25/01/19,10:11:00,Credit card,4
+340-66-0321,E,San Antonio,Member,Male,Electronic accessories,36.36,4,152.71,25/03/19,13:07:00,Cash,7.6
+868-81-1752,E,San Jose,Normal,Male,Home and lifestyle,22.02,9,208.09,07/02/19,18:48:00,Cash,6.8
+634-97-8956,B,Phoenix,Normal,Male,Food and beverages,32.9,3,103.64,17/02/19,17:27:00,Credit card,9.1
+566-71-1091,A,San Antonio,Normal,Male,Fashion accessories,77.02,5,404.36,03/02/19,15:59:00,Cash,5.5
+442-48-3607,B,San Diego,Member,Male,Food and beverages,23.48,2,49.31,14/03/19,11:21:00,Credit card,7.9
+835-16-0096,E,New York,Member,Male,Sports and travel,14.7,5,77.18,24/03/19,13:48:00,Ewallet,8.5
+527-09-6272,E,Chicago,Member,Female,Electronic accessories,28.45,5,149.36,21/03/19,10:17:00,Credit card,9.1
+898-04-2717,C,Chicago,Normal,Male,Fashion accessories,76.4,9,721.98,19/03/19,15:49:00,Ewallet,7.5
+692-27-8933,A,Chicago,Normal,Female,Sports and travel,57.95,6,365.09,24/02/19,13:02:00,Cash,5.2
+633-09-3463,E,Chicago,Normal,Female,Electronic accessories,47.65,3,150.10,28/03/19,12:58:00,Credit card,9.5
+374-17-3652,A,Los Angeles,Member,Female,Food and beverages,42.82,9,404.65,05/02/19,15:26:00,Credit card,8.9
+378-07-7001,D,San Jose,Member,Male,Electronic accessories,48.09,3,151.48,10/02/19,18:23:00,Credit card,7.8
+433-75-6987,C,Phoenix,Member,Female,Health and beauty,55.97,7,411.38,05/03/19,19:06:00,Ewallet,8.9
+873-95-4984,D,Los Angeles,Member,Female,Health and beauty,76.9,7,565.22,15/02/19,20:21:00,Cash,7.7
+416-13-5917,D,Dallas,Normal,Female,Food and beverages,97.03,5,509.41,30/01/19,16:24:00,Ewallet,9.3
+150-89-8043,B,Dallas,Normal,Male,Sports and travel,44.65,3,140.65,14/02/19,15:04:00,Cash,6.2
+135-84-8019,C,San Jose,Normal,Female,Fashion accessories,77.93,9,736.44,27/02/19,16:10:00,Ewallet,7.6
+441-94-7118,C,Phoenix,Member,Male,Electronic accessories,71.95,1,75.55,04/02/19,12:14:00,Cash,7.3
+725-96-3778,A,San Antonio,Member,Female,Home and lifestyle,89.25,8,749.70,20/01/19,10:13:00,Cash,4.7
+531-80-1784,D,Los Angeles,Normal,Male,Electronic accessories,26.02,7,191.25,28/03/19,17:38:00,Cash,5.1
+400-45-1220,C,San Jose,Normal,Female,Health and beauty,13.5,10,141.75,27/02/19,11:06:00,Credit card,4.8
+860-79-0874,D,Dallas,Member,Female,Fashion accessories,99.3,10,1042.65,15/02/19,14:53:00,Credit card,6.6
+834-61-8124,B,San Jose,Normal,Male,Electronic accessories,51.69,7,379.92,26/01/19,18:22:00,Cash,5.5
+115-99-4379,E,San Diego,Member,Female,Fashion accessories,54.73,7,402.27,14/03/19,19:02:00,Credit card,8.5
+565-67-6697,C,Houston,Member,Male,Home and lifestyle,27,9,255.15,02/03/19,14:16:00,Cash,4.8
+320-49-6392,E,San Jose,Normal,Female,Electronic accessories,30.24,1,31.75,04/03/19,15:44:00,Cash,8.4
+889-04-9723,A,Houston,Member,Female,Food and beverages,89.14,4,374.39,07/01/19,12:20:00,Credit card,7.8
+632-90-0281,D,Dallas,Normal,Female,Fashion accessories,37.55,10,394.28,08/03/19,20:01:00,Credit card,9.3
+554-42-2417,C,Philadelphia,Normal,Female,Sports and travel,95.44,10,1002.12,09/01/19,13:45:00,Cash,5.2
+453-63-6187,B,San Jose,Normal,Male,Electronic accessories,27.5,3,86.63,01/03/19,15:40:00,Ewallet,6.5
+578-80-7669,D,Chicago,Normal,Male,Sports and travel,74.97,1,78.72,16/03/19,16:58:00,Cash,5.6
+612-36-5536,B,San Diego,Member,Male,Food and beverages,80.96,8,680.06,17/02/19,11:12:00,Credit card,7.4
+605-72-4132,B,San Antonio,Normal,Female,Food and beverages,94.47,8,793.55,27/02/19,15:12:00,Cash,9.1
+471-41-2823,C,Los Angeles,Normal,Male,Food and beverages,99.79,2,209.56,07/03/19,20:37:00,Ewallet,8
+462-67-9126,C,Los Angeles,Normal,Male,Home and lifestyle,73.22,6,461.29,21/01/19,17:44:00,Cash,7.2
+272-27-9238,D,Chicago,Normal,Female,Food and beverages,41.24,4,173.21,19/02/19,16:23:00,Cash,7.1
+834-25-9262,A,Philadelphia,Normal,Female,Fashion accessories,81.68,4,343.06,06/01/19,12:12:00,Cash,9.1
+122-61-9553,D,Los Angeles,Normal,Female,Electronic accessories,51.32,9,484.97,14/03/19,19:33:00,Cash,5.6
+468-88-0009,B,Dallas,Member,Male,Home and lifestyle,65.94,4,276.95,24/03/19,10:29:00,Cash,6
+613-59-9758,B,Phoenix,Normal,Female,Sports and travel,14.36,10,150.78,27/01/19,14:28:00,Cash,5.4
+254-31-0042,E,New York,Member,Male,Electronic accessories,21.5,9,203.18,06/03/19,12:46:00,Credit card,7.8
+201-86-2184,E,Dallas,Member,Female,Electronic accessories,26.26,7,193.01,02/02/19,19:40:00,Cash,9.9
+261-12-8671,A,Houston,Normal,Female,Fashion accessories,60.96,2,128.02,25/01/19,19:39:00,Credit card,4.9
+730-70-9830,D,Phoenix,Normal,Female,Home and lifestyle,70.11,6,441.69,14/03/19,17:54:00,Ewallet,5.2
+382-25-8917,C,Philadelphia,Normal,Male,Fashion accessories,42.08,6,265.10,29/01/19,12:25:00,Cash,8.9
+422-29-8786,E,San Jose,Normal,Female,Home and lifestyle,67.09,5,352.22,03/01/19,16:47:00,Credit card,9.1
+667-23-5919,B,Los Angeles,Member,Female,Fashion accessories,96.7,5,507.68,14/01/19,12:52:00,Ewallet,7
+843-01-4703,D,Los Angeles,Member,Female,Home and lifestyle,35.38,9,334.34,05/01/19,19:50:00,Credit card,9.6
+743-88-1662,E,Los Angeles,Normal,Male,Sports and travel,95.49,7,701.85,22/02/19,18:17:00,Ewallet,8.7
+595-86-2894,E,San Jose,Member,Male,Fashion accessories,96.98,4,407.32,06/02/19,17:20:00,Ewallet,9.4
+182-69-8360,B,New York,Normal,Female,Electronic accessories,23.65,4,99.33,30/01/19,13:32:00,Credit card,4
+289-15-7034,D,Los Angeles,Member,Male,Sports and travel,82.33,4,345.79,11/01/19,10:37:00,Credit card,7.5
+462-78-5240,D,Chicago,Normal,Female,Electronic accessories,26.61,2,55.88,19/03/19,14:35:00,Cash,4.2
+868-52-7573,B,Los Angeles,Normal,Female,Food and beverages,99.69,5,523.37,14/01/19,12:09:00,Cash,9.9
+153-58-4872,C,Phoenix,Member,Female,Food and beverages,74.89,4,314.54,01/03/19,15:32:00,Ewallet,4.2
+662-72-2873,D,New York,Normal,Female,Food and beverages,40.94,5,214.94,06/01/19,13:58:00,Ewallet,9.9
+525-88-7307,A,San Jose,Member,Male,Sports and travel,75.82,1,79.61,31/01/19,13:19:00,Cash,5.8
+689-16-9784,D,Chicago,Normal,Male,Food and beverages,46.77,6,294.65,11/03/19,13:37:00,Cash,6
+725-56-0833,D,Phoenix,Normal,Female,Health and beauty,32.32,10,339.36,20/02/19,16:49:00,Credit card,10
+394-41-0748,C,Phoenix,Member,Female,Fashion accessories,54.07,9,510.96,27/01/19,14:55:00,Ewallet,9.5
+596-42-3999,E,Dallas,Normal,Male,Food and beverages,18.22,7,133.92,10/03/19,14:04:00,Credit card,6.6
+541-89-9860,B,San Jose,Member,Female,Fashion accessories,80.48,3,253.51,15/02/19,12:31:00,Cash,8.1
+173-82-9529,D,Houston,Normal,Female,Fashion accessories,37.95,10,398.48,26/01/19,14:51:00,Cash,9.7
+563-36-9814,E,New York,Member,Male,Electronic accessories,76.82,1,80.66,13/02/19,18:27:00,Ewallet,7.2
+308-47-4913,C,Chicago,Member,Female,Sports and travel,52.26,10,548.73,09/03/19,12:45:00,Credit card,6.2
+885-17-6250,D,Los Angeles,Normal,Female,Health and beauty,79.74,1,83.73,06/03/19,10:36:00,Ewallet,7.3
+726-27-2396,E,Chicago,Normal,Female,Health and beauty,77.5,5,406.88,24/01/19,20:36:00,Ewallet,4.3
+316-01-3952,D,Los Angeles,Normal,Female,Food and beverages,54.27,5,284.92,13/03/19,14:16:00,Ewallet,4.6
+760-54-1821,D,Phoenix,Normal,Male,Home and lifestyle,13.59,9,128.43,15/03/19,10:26:00,Cash,5.8
+793-10-3222,B,Phoenix,Member,Female,Health and beauty,41.06,6,258.68,05/03/19,13:30:00,Credit card,8.3
+346-12-3257,E,Chicago,Member,Male,Electronic accessories,19.24,9,181.82,04/03/19,16:28:00,Cash,8
+110-05-6330,D,San Jose,Normal,Female,Food and beverages,39.43,6,248.41,25/03/19,20:18:00,Credit card,9.4
+651-61-0874,D,Philadelphia,Normal,Male,Home and lifestyle,46.22,4,194.12,12/03/19,20:04:00,Credit card,6.2
+236-86-3015,C,Dallas,Member,Male,Home and lifestyle,13.98,1,14.68,04/02/19,13:38:00,Ewallet,9.8
+831-64-0259,B,San Antonio,Normal,Female,Fashion accessories,39.75,5,208.69,22/02/19,10:43:00,Ewallet,9.6
+587-03-7455,D,San Antonio,Member,Female,Fashion accessories,97.79,7,718.76,16/02/19,17:30:00,Ewallet,4.9
+882-40-4577,E,San Antonio,Member,Male,Sports and travel,67.26,4,282.49,19/01/19,15:28:00,Credit card,8
+732-67-5346,E,Chicago,Normal,Male,Food and beverages,13.79,5,72.40,11/01/19,19:07:00,Credit card,7.8
+725-32-9708,B,Houston,Member,Female,Fashion accessories,68.71,4,288.58,04/01/19,19:01:00,Cash,4.1
+256-08-8343,E,Philadelphia,Normal,Female,Home and lifestyle,56.53,4,237.43,04/03/19,19:48:00,Ewallet,5.5
+372-26-1506,E,Chicago,Normal,Female,Fashion accessories,23.82,5,125.06,28/01/19,19:24:00,Ewallet,5.4
+244-08-0162,D,San Diego,Normal,Female,Health and beauty,34.21,10,359.21,02/01/19,13:00:00,Cash,5.1
+569-71-4390,B,Philadelphia,Normal,Male,Sports and travel,21.87,2,45.93,25/01/19,14:29:00,Ewallet,6.9
+132-23-6451,C,Los Angeles,Member,Male,Health and beauty,20.97,5,110.09,04/01/19,13:21:00,Cash,7.8
+696-90-2548,C,San Jose,Normal,Male,Sports and travel,25.84,3,81.40,10/03/19,18:55:00,Ewallet,6.6
+472-15-9636,B,Houston,Normal,Male,Home and lifestyle,50.93,8,427.81,22/03/19,19:36:00,Ewallet,9.2
+268-03-6164,C,Houston,Normal,Male,Health and beauty,96.11,1,100.92,25/01/19,16:28:00,Ewallet,7.8
+750-57-9686,D,San Jose,Normal,Female,Home and lifestyle,45.38,4,190.60,08/01/19,13:48:00,Credit card,8.7
+186-09-3669,D,Philadelphia,Member,Female,Health and beauty,81.51,1,85.59,22/01/19,10:57:00,Ewallet,9.2
+848-07-1692,B,Phoenix,Normal,Female,Health and beauty,57.22,2,120.16,12/01/19,17:13:00,Ewallet,8.3
+745-71-3520,D,San Diego,Member,Female,Electronic accessories,25.22,7,185.37,04/02/19,10:23:00,Cash,8.2
+266-76-6436,B,San Jose,Member,Female,Food and beverages,38.6,3,121.59,28/03/19,13:57:00,Ewallet,7.5
+740-22-2500,B,Chicago,Normal,Female,Electronic accessories,84.05,3,264.76,23/01/19,13:29:00,Cash,9.8
+271-88-8734,E,Philadelphia,Member,Female,Fashion accessories,97.21,10,1020.71,08/02/19,13:00:00,Credit card,8.7
+301-81-8610,B,Phoenix,Member,Male,Fashion accessories,25.42,8,213.53,19/03/19,19:42:00,Credit card,6.7
+489-64-4354,E,San Antonio,Normal,Male,Fashion accessories,16.28,1,17.09,09/03/19,15:36:00,Cash,5
+198-84-7132,E,San Jose,Member,Male,Fashion accessories,40.61,9,383.76,02/01/19,13:40:00,Cash,7
+269-10-8440,C,Dallas,Member,Male,Health and beauty,53.17,7,390.80,21/01/19,18:01:00,Cash,8.9
+650-98-6268,D,San Diego,Member,Female,Food and beverages,20.87,3,65.74,20/03/19,13:53:00,Credit card,8
+741-73-3559,B,New York,Normal,Male,Sports and travel,67.27,5,353.17,27/02/19,17:27:00,Cash,6.9
+325-77-6186,C,San Jose,Member,Female,Home and lifestyle,90.65,10,951.83,08/03/19,10:53:00,Ewallet,7.3
+286-75-7818,D,New York,Normal,Male,Fashion accessories,69.08,2,145.07,31/01/19,19:48:00,Credit card,6.9
+574-57-9721,D,Phoenix,Normal,Male,Food and beverages,43.27,2,90.87,08/03/19,16:53:00,Ewallet,5.7
+459-50-7686,B,New York,Normal,Female,Electronic accessories,23.46,6,147.80,13/01/19,19:14:00,Ewallet,6.4
+616-87-0016,E,San Antonio,Normal,Male,Fashion accessories,95.54,7,702.22,09/03/19,14:36:00,Credit card,9.6
+837-55-7229,B,San Antonio,Normal,Female,Fashion accessories,47.44,1,49.81,22/02/19,18:19:00,Credit card,6.8
+751-69-0068,D,Phoenix,Normal,Male,Sports and travel,99.24,9,937.82,19/03/19,19:09:00,Ewallet,9
+257-73-1380,B,San Antonio,Member,Male,Sports and travel,82.93,4,348.31,20/01/19,16:51:00,Ewallet,9.6
+345-08-4992,D,Chicago,Normal,Male,Home and lifestyle,33.99,6,214.14,08/03/19,15:37:00,Credit card,7.7
+549-96-4200,E,New York,Member,Male,Food and beverages,17.04,4,71.57,08/03/19,20:15:00,Ewallet,7
+810-60-6344,D,San Jose,Normal,Female,Electronic accessories,40.86,8,343.22,07/02/19,14:38:00,Credit card,6.5
+450-28-2866,C,San Diego,Member,Male,Food and beverages,17.44,5,91.56,15/01/19,19:25:00,Cash,8.1
+394-30-3170,C,New York,Member,Female,Sports and travel,88.43,8,742.81,22/03/19,19:35:00,Credit card,4.3
+138-17-5109,D,Dallas,Member,Female,Home and lifestyle,89.21,9,843.03,15/01/19,15:42:00,Credit card,6.5
+192-98-7397,E,San Diego,Normal,Male,Fashion accessories,12.78,1,13.42,08/01/19,14:11:00,Ewallet,9.5
+301-11-9629,C,Philadelphia,Normal,Female,Sports and travel,19.1,7,140.39,15/01/19,10:43:00,Cash,9.7
+390-80-5128,D,Phoenix,Member,Female,Health and beauty,19.15,1,20.11,28/01/19,17:58:00,Credit card,9.5
+235-46-8343,B,Dallas,Member,Male,Food and beverages,27.66,10,290.43,14/02/19,11:26:00,Credit card,8.9
+453-12-7053,D,New York,Normal,Male,Fashion accessories,45.74,3,144.08,10/03/19,17:38:00,Credit card,6.5
+296-11-7041,C,San Antonio,Member,Female,Health and beauty,27.07,1,28.42,12/01/19,20:07:00,Credit card,5.3
+449-27-2918,D,New York,Member,Female,Sports and travel,39.12,1,41.08,26/03/19,11:02:00,Credit card,9.6
+891-01-7034,C,Los Angeles,Normal,Female,Electronic accessories,74.71,6,470.67,01/01/19,19:07:00,Cash,6.7
+744-09-5786,E,Chicago,Normal,Male,Electronic accessories,22.01,6,138.66,02/01/19,18:50:00,Cash,7.6
+727-17-0390,B,Chicago,Normal,Female,Food and beverages,63.61,5,333.95,16/03/19,12:43:00,Ewallet,4.8
+568-88-3448,C,Chicago,Normal,Male,Health and beauty,25,1,26.25,03/03/19,15:09:00,Ewallet,5.5
+187-83-5490,B,Houston,Member,Male,Electronic accessories,20.77,4,87.23,31/01/19,13:47:00,Cash,4.7
+767-54-1907,D,Chicago,Member,Female,Fashion accessories,29.56,5,155.19,13/02/19,16:59:00,Cash,6.9
+710-46-4433,D,Dallas,Member,Female,Food and beverages,77.4,9,731.43,15/02/19,14:15:00,Credit card,4.5
+533-33-5337,C,Philadelphia,Normal,Male,Electronic accessories,79.39,10,833.60,07/02/19,20:24:00,Cash,6.2
+325-90-8763,E,Los Angeles,Member,Female,Electronic accessories,46.57,10,488.99,27/01/19,13:58:00,Cash,7.6
+729-46-7422,C,Chicago,Normal,Male,Food and beverages,35.89,1,37.68,23/02/19,16:52:00,Credit card,7.9
+639-76-1242,D,Los Angeles,Normal,Male,Food and beverages,40.52,5,212.73,03/02/19,15:19:00,Cash,4.5
+234-03-4040,C,San Diego,Member,Female,Food and beverages,73.05,10,767.03,03/03/19,12:25:00,Credit card,8.7
+326-71-2155,C,Philadelphia,Normal,Female,Sports and travel,73.95,4,310.59,03/02/19,10:02:00,Cash,6.1
+320-32-8842,D,Philadelphia,Member,Female,Food and beverages,22.62,1,23.75,17/03/19,18:58:00,Cash,6.4
+470-32-9057,E,Chicago,Member,Male,Food and beverages,51.34,5,269.54,28/03/19,15:31:00,Credit card,9.1
+878-30-2331,E,Los Angeles,Member,Female,Sports and travel,54.55,10,572.78,02/03/19,11:22:00,Credit card,7.1
+440-59-5691,B,San Diego,Member,Female,Health and beauty,37.15,7,273.05,08/02/19,13:12:00,Credit card,7.7
+554-53-3790,C,San Antonio,Normal,Male,Sports and travel,37.02,6,233.23,22/03/19,18:33:00,Cash,4.5
+746-19-0921,C,Philadelphia,Normal,Male,Food and beverages,21.58,1,22.66,09/02/19,10:02:00,Ewallet,7.2
+233-34-0817,E,Houston,Member,Female,Electronic accessories,98.84,1,103.78,15/02/19,11:21:00,Cash,8.4
+767-05-1286,E,Philadelphia,Member,Female,Home and lifestyle,83.77,6,527.75,23/01/19,12:10:00,Ewallet,5.4
+340-21-9136,B,Chicago,Member,Female,Sports and travel,40.05,4,168.21,25/01/19,11:40:00,Cash,9.7
+405-31-3305,B,Dallas,Member,Male,Fashion accessories,43.13,10,452.87,02/02/19,18:31:00,Credit card,5.5
+731-59-7531,B,San Jose,Member,Male,Health and beauty,72.57,8,609.59,30/03/19,17:58:00,Cash,4.6
+676-39-6028,E,San Jose,Member,Female,Electronic accessories,64.44,5,338.31,30/03/19,17:04:00,Cash,6.6
+502-05-1910,C,Los Angeles,Normal,Male,Health and beauty,65.18,3,205.32,25/02/19,20:35:00,Credit card,6.3
+485-30-8700,D,New York,Normal,Female,Sports and travel,33.26,5,174.62,18/03/19,16:10:00,Credit card,4.2
+598-47-9715,B,Houston,Normal,Male,Electronic accessories,84.07,4,353.09,07/03/19,16:54:00,Ewallet,4.4
+701-69-8742,C,Phoenix,Normal,Male,Sports and travel,34.37,10,360.89,16/03/19,10:11:00,Ewallet,6.7
+575-67-1508,C,San Diego,Normal,Male,Electronic accessories,38.6,1,40.53,29/01/19,11:26:00,Ewallet,6.7
+541-08-3113,E,San Jose,Normal,Male,Food and beverages,65.97,8,554.15,02/02/19,20:29:00,Cash,8.4
+246-11-3901,C,Phoenix,Normal,Female,Electronic accessories,32.8,10,344.40,15/02/19,12:12:00,Cash,6.2
+674-15-9296,B,San Antonio,Normal,Male,Sports and travel,37.14,5,194.99,08/01/19,13:05:00,Ewallet,5
+305-18-3552,C,Chicago,Member,Male,Home and lifestyle,60.38,10,633.99,12/02/19,16:19:00,Cash,6
+493-65-6248,B,Los Angeles,Member,Female,Sports and travel,36.98,10,388.29,01/01/19,19:48:00,Credit card,7
+438-01-4015,C,San Diego,Member,Female,Sports and travel,49.49,4,207.86,21/03/19,15:25:00,Ewallet,6.6
+709-58-4068,C,Los Angeles,Normal,Female,Fashion accessories,41.09,10,431.45,28/02/19,14:42:00,Cash,7.3
+795-49-7276,D,New York,Normal,Male,Fashion accessories,37.15,4,156.03,23/03/19,18:59:00,Ewallet,8.3
+556-72-8512,E,New York,Normal,Male,Home and lifestyle,22.96,1,24.11,30/01/19,20:47:00,Cash,4.3
+627-95-3243,C,San Diego,Member,Female,Home and lifestyle,77.68,9,734.08,04/02/19,13:21:00,Ewallet,9.8
+686-41-0932,D,Chicago,Normal,Female,Fashion accessories,34.7,2,72.87,13/03/19,19:48:00,Ewallet,8.2
+510-09-5628,E,Houston,Member,Female,Fashion accessories,19.66,10,206.43,15/03/19,18:20:00,Credit card,7.2
+608-04-3797,C,San Jose,Member,Female,Health and beauty,25.32,8,212.69,05/03/19,20:24:00,Ewallet,8.7
+148-82-2527,E,San Jose,Member,Female,Home and lifestyle,12.12,10,127.26,05/03/19,13:44:00,Credit card,8.4
+437-53-3084,D,San Jose,Normal,Male,Fashion accessories,99.89,2,209.77,26/02/19,11:48:00,Ewallet,7.1
+632-32-4574,D,San Diego,Normal,Male,Sports and travel,75.92,8,637.73,20/03/19,14:14:00,Cash,5.5
+556-97-7101,D,New York,Normal,Female,Electronic accessories,63.22,2,132.76,01/01/19,15:51:00,Cash,8.5
+862-59-8517,D,New York,Normal,Female,Food and beverages,90.24,6,568.51,27/01/19,11:17:00,Cash,6.2
+401-18-8016,C,Los Angeles,Member,Female,Sports and travel,98.13,1,103.04,21/01/19,17:36:00,Cash,8.9
+420-18-8989,C,Chicago,Member,Female,Sports and travel,51.52,8,432.77,02/02/19,15:47:00,Cash,9.6
+277-63-2961,C,Dallas,Member,Male,Sports and travel,73.97,1,77.67,03/02/19,15:53:00,Credit card,5.4
+573-98-8548,D,San Antonio,Member,Female,Fashion accessories,31.9,1,33.50,05/01/19,12:40:00,Ewallet,9.1
+620-02-2046,B,Houston,Normal,Male,Home and lifestyle,69.4,2,145.74,27/01/19,19:48:00,Ewallet,9
+282-35-2475,D,Los Angeles,Normal,Female,Sports and travel,93.31,2,195.95,25/03/19,17:53:00,Cash,6.3
+511-54-3087,C,Philadelphia,Normal,Male,Sports and travel,88.45,1,92.87,25/02/19,16:36:00,Credit card,9.5
+726-29-6793,B,Chicago,Member,Male,Electronic accessories,24.18,8,203.11,28/01/19,20:54:00,Ewallet,9.8
+387-49-4215,D,Philadelphia,Member,Female,Sports and travel,48.5,3,152.78,08/01/19,12:50:00,Cash,6.7
+862-17-9201,C,San Antonio,Normal,Female,Food and beverages,84.05,6,529.52,29/01/19,10:48:00,Credit card,7.7
+291-21-5991,D,New York,Member,Male,Health and beauty,61.29,5,321.77,29/03/19,14:28:00,Cash,7
+602-80-9671,B,New York,Member,Female,Home and lifestyle,15.95,6,100.49,09/02/19,17:15:00,Credit card,5.1
+347-72-6115,B,Phoenix,Member,Female,Sports and travel,90.74,7,666.94,16/01/19,18:03:00,Credit card,6.2
+209-61-0206,B,New York,Normal,Female,Home and lifestyle,42.91,5,225.28,05/01/19,17:29:00,Ewallet,6.1
+595-27-4851,B,San Jose,Normal,Female,Fashion accessories,54.28,7,398.96,27/01/19,18:05:00,Ewallet,9.3
+189-52-0236,C,San Antonio,Normal,Male,Electronic accessories,99.55,7,731.69,14/03/19,12:07:00,Cash,7.6
+503-07-0930,B,San Jose,Member,Male,Sports and travel,58.39,7,429.17,23/02/19,19:49:00,Credit card,8.2
+413-20-6708,D,Dallas,Member,Female,Fashion accessories,51.47,1,54.04,18/03/19,15:52:00,Ewallet,8.5
+425-85-2085,D,Dallas,Member,Male,Health and beauty,54.86,5,288.02,29/03/19,16:48:00,Ewallet,9.8
+521-18-7827,D,Philadelphia,Member,Male,Home and lifestyle,39.39,5,206.80,22/01/19,20:46:00,Credit card,8.7
+220-28-1851,B,Los Angeles,Normal,Male,Home and lifestyle,34.73,2,72.93,01/03/19,18:14:00,Ewallet,9.7
+600-38-9738,C,San Antonio,Member,Male,Sports and travel,71.92,5,377.58,17/01/19,15:05:00,Credit card,4.3
+734-91-1155,D,Philadelphia,Normal,Female,Electronic accessories,45.71,3,143.99,26/03/19,10:34:00,Credit card,7.7
+451-28-5717,B,Dallas,Member,Female,Home and lifestyle,83.17,6,523.97,20/03/19,11:23:00,Cash,7.3
+609-81-8548,D,San Diego,Member,Female,Home and lifestyle,37.44,6,235.87,06/02/19,13:55:00,Credit card,5.9
+133-14-7229,D,Phoenix,Normal,Male,Health and beauty,62.87,2,132.03,01/01/19,11:43:00,Cash,5
+534-01-4457,B,Chicago,Normal,Male,Food and beverages,81.71,6,514.77,27/01/19,14:36:00,Credit card,8
+719-89-8991,D,San Antonio,Member,Female,Sports and travel,91.41,5,479.90,25/02/19,16:03:00,Ewallet,7.1
+286-62-6248,E,San Jose,Normal,Male,Fashion accessories,39.21,4,164.68,16/01/19,20:03:00,Credit card,9
+339-38-9982,D,San Antonio,Member,Male,Fashion accessories,59.86,2,125.71,13/01/19,14:55:00,Ewallet,6.7
+827-44-5872,D,Los Angeles,Member,Female,Food and beverages,54.36,10,570.78,07/02/19,11:28:00,Credit card,6.1
+827-77-7633,E,Chicago,Normal,Male,Sports and travel,98.09,9,926.95,17/02/19,19:41:00,Cash,9.3
+287-83-1405,C,Houston,Normal,Male,Health and beauty,25.43,6,160.21,12/02/19,19:01:00,Ewallet,7
+435-13-4908,E,Philadelphia,Member,Male,Fashion accessories,86.68,8,728.11,24/01/19,18:04:00,Credit card,7.2
+857-67-9057,E,Dallas,Normal,Male,Electronic accessories,22.95,10,240.98,06/02/19,19:20:00,Ewallet,8.2
+236-27-1144,B,San Jose,Normal,Female,Food and beverages,16.31,9,154.13,26/03/19,10:31:00,Ewallet,8.4
+892-05-6689,D,Los Angeles,Normal,Female,Home and lifestyle,28.32,5,148.68,11/03/19,13:28:00,Ewallet,6.2
+583-41-4548,B,Phoenix,Normal,Male,Home and lifestyle,16.67,7,122.52,07/02/19,11:36:00,Ewallet,7.4
+339-12-4827,E,Dallas,Member,Female,Fashion accessories,73.96,1,77.66,05/01/19,11:32:00,Credit card,5
+643-38-7867,D,Chicago,Normal,Male,Home and lifestyle,97.94,1,102.84,07/03/19,11:44:00,Ewallet,6.9
+308-81-0538,C,Houston,Normal,Female,Fashion accessories,73.05,4,306.81,25/02/19,17:16:00,Credit card,4.9
+358-88-9262,D,Dallas,Member,Female,Food and beverages,87.48,6,551.12,01/02/19,18:43:00,Ewallet,5.1
+460-35-4390,E,Chicago,Normal,Male,Home and lifestyle,30.68,3,96.64,22/01/19,11:00:00,Ewallet,9.1
+343-87-0864,C,Philadelphia,Member,Male,Health and beauty,75.88,1,79.67,03/01/19,10:30:00,Credit card,7.1
+173-50-1108,E,Dallas,Member,Female,Sports and travel,20.18,4,84.76,13/02/19,12:14:00,Credit card,5
+243-47-2663,B,San Antonio,Member,Male,Electronic accessories,18.77,6,118.25,28/01/19,16:43:00,Credit card,5.5
+841-18-8232,E,San Diego,Normal,Female,Food and beverages,71.2,1,74.76,05/01/19,20:40:00,Credit card,9.2
+701-23-5550,D,New York,Member,Male,Home and lifestyle,38.81,4,163.00,19/03/19,13:40:00,Ewallet,4.9
+647-50-1224,B,Phoenix,Normal,Female,Fashion accessories,29.42,10,308.91,12/01/19,16:23:00,Ewallet,8.9
+541-48-8554,B,San Diego,Normal,Male,Sports and travel,60.95,9,575.98,07/01/19,12:08:00,Credit card,6
+539-21-7227,C,New York,Normal,Female,Sports and travel,51.54,5,270.59,26/01/19,17:45:00,Cash,4.2
+213-32-1216,C,Phoenix,Normal,Female,Electronic accessories,66.06,6,416.18,23/01/19,10:28:00,Cash,7.3
+747-58-7183,B,Philadelphia,Normal,Male,Fashion accessories,57.27,3,180.40,09/02/19,20:31:00,Ewallet,6.5
+582-52-8065,E,San Jose,Normal,Female,Fashion accessories,54.31,9,513.23,22/02/19,10:49:00,Cash,8.9
+210-57-1719,B,Dallas,Normal,Female,Health and beauty,58.24,9,550.37,05/02/19,12:34:00,Cash,9.7
+399-69-4630,D,Dallas,Normal,Male,Electronic accessories,22.21,6,139.92,07/03/19,10:23:00,Credit card,8.6
+134-75-2619,D,Philadelphia,Member,Male,Electronic accessories,19.32,7,142.00,25/03/19,18:51:00,Cash,6.9
+356-44-8813,D,Los Angeles,Normal,Male,Home and lifestyle,37.48,3,118.06,20/01/19,13:45:00,Credit card,7.7
+198-66-9832,D,Houston,Member,Female,Fashion accessories,72.04,2,151.28,04/02/19,19:38:00,Cash,9.5
+283-26-5248,B,New York,Member,Female,Food and beverages,98.52,10,1034.46,30/01/19,20:23:00,Ewallet,4.5
+712-39-0363,C,Los Angeles,Member,Male,Food and beverages,41.66,6,262.46,02/01/19,15:24:00,Ewallet,5.6
+218-59-9410,C,Los Angeles,Member,Female,Home and lifestyle,72.42,3,228.12,29/03/19,16:54:00,Ewallet,8.2
+174-75-0888,D,San Antonio,Normal,Male,Electronic accessories,21.58,9,203.93,14/03/19,12:32:00,Cash,7.3
+866-99-7614,B,San Jose,Normal,Male,Food and beverages,89.2,10,936.60,11/02/19,15:42:00,Credit card,4.4
+134-54-4720,D,San Diego,Normal,Female,Electronic accessories,42.42,8,356.33,30/01/19,13:58:00,Ewallet,5.7
+760-90-2357,D,Dallas,Member,Male,Electronic accessories,74.51,6,469.41,20/03/19,15:08:00,Ewallet,5
+514-37-2845,C,San Jose,Normal,Male,Fashion accessories,99.25,2,208.43,20/03/19,13:02:00,Cash,9
+698-98-5964,E,Houston,Normal,Female,Food and beverages,81.21,10,852.71,17/01/19,13:01:00,Credit card,6.3
+718-57-9773,B,San Diego,Normal,Female,Sports and travel,49.33,10,517.97,03/02/19,16:40:00,Credit card,9.4
+651-88-7328,D,Houston,Normal,Female,Fashion accessories,65.74,9,621.24,01/01/19,13:55:00,Cash,7.7
+241-11-2261,B,San Jose,Normal,Female,Fashion accessories,79.86,7,586.97,10/01/19,10:33:00,Credit card,5.5
+408-26-9866,B,San Diego,Normal,Female,Sports and travel,73.98,7,543.75,02/03/19,16:42:00,Ewallet,4.1
+834-83-1826,D,New York,Member,Female,Home and lifestyle,82.04,5,430.71,25/02/19,17:16:00,Credit card,7.6
+343-61-3544,D,Los Angeles,Member,Male,Sports and travel,26.67,10,280.04,29/01/19,11:48:00,Cash,8.6
+239-48-4278,D,Philadelphia,Member,Male,Food and beverages,10.13,7,74.46,10/03/19,19:35:00,Ewallet,8.3
+355-34-6244,D,San Jose,Normal,Male,Food and beverages,72.39,2,152.02,13/01/19,19:55:00,Credit card,8.1
+550-84-8664,B,Philadelphia,Normal,Male,Sports and travel,85.91,5,451.03,22/03/19,14:33:00,Credit card,8.6
+339-96-8318,C,Phoenix,Member,Male,Fashion accessories,81.31,7,597.63,01/03/19,19:49:00,Ewallet,6.3
+458-61-0011,C,Dallas,Normal,Male,Food and beverages,60.3,4,253.26,20/02/19,18:43:00,Cash,5.8
+592-34-6155,D,Philadelphia,Normal,Male,Food and beverages,31.77,4,133.43,14/01/19,14:43:00,Ewallet,6.2
+797-88-0493,C,San Jose,Normal,Female,Health and beauty,64.27,4,269.93,26/03/19,13:54:00,Cash,7.7
+207-73-1363,B,New York,Normal,Male,Health and beauty,69.51,2,145.97,01/03/19,12:15:00,Ewallet,8.1
+390-31-6381,B,Dallas,Normal,Male,Food and beverages,27.22,3,85.74,07/01/19,12:37:00,Cash,7.3
+443-82-0585,B,Phoenix,Member,Female,Health and beauty,77.68,4,326.26,01/02/19,19:54:00,Cash,8.4
+339-18-7061,D,San Diego,Member,Female,Fashion accessories,92.98,2,195.26,13/02/19,15:06:00,Credit card,8
+359-90-3665,C,New York,Member,Female,Fashion accessories,18.08,4,75.94,14/01/19,18:03:00,Credit card,9.5
+375-72-3056,E,Dallas,Normal,Male,Sports and travel,63.06,3,198.64,19/01/19,15:58:00,Ewallet,7
+127-47-6963,B,Phoenix,Normal,Male,Health and beauty,51.71,4,217.18,09/03/19,13:53:00,Credit card,9.8
+278-86-2735,E,Houston,Normal,Female,Food and beverages,52.34,3,164.87,27/03/19,14:03:00,Cash,9.2
+695-28-6250,C,Dallas,Normal,Female,Sports and travel,43.06,5,226.07,04/02/19,16:38:00,Ewallet,7.7
+379-17-6588,B,New York,Normal,Male,Fashion accessories,59.61,10,625.91,14/03/19,11:07:00,Cash,5.3
+227-50-3718,C,Houston,Normal,Male,Health and beauty,14.62,5,76.76,04/03/19,12:23:00,Cash,4.4
+302-15-2162,E,San Jose,Member,Male,Health and beauty,46.53,6,293.14,03/03/19,10:54:00,Credit card,4.3
+788-07-8452,D,Phoenix,Member,Female,Home and lifestyle,24.24,7,178.16,27/01/19,17:38:00,Ewallet,9.4
+560-49-6611,B,Phoenix,Member,Female,Sports and travel,45.58,1,47.86,07/02/19,14:13:00,Cash,9.8
+880-35-0356,E,Houston,Member,Female,Sports and travel,75.2,3,236.88,05/02/19,11:51:00,Ewallet,4.8
+585-11-6748,C,New York,Member,Male,Sports and travel,96.8,3,304.92,15/03/19,13:05:00,Cash,5.3
+470-31-3286,D,San Jose,Normal,Male,Health and beauty,14.82,3,46.68,01/03/19,11:30:00,Credit card,8.7
+152-68-2907,C,San Diego,Normal,Male,Food and beverages,52.2,3,164.43,15/02/19,13:30:00,Credit card,9.5
+123-35-4896,B,Dallas,Normal,Female,Sports and travel,46.66,9,440.94,17/02/19,19:11:00,Ewallet,5.3
+258-69-7810,E,Los Angeles,Normal,Female,Fashion accessories,36.85,5,193.46,26/01/19,18:53:00,Cash,9.2
+334-64-2006,E,San Antonio,Member,Female,Home and lifestyle,70.32,2,147.67,24/03/19,14:22:00,Ewallet,9.6
+219-61-4139,D,San Antonio,Normal,Male,Electronic accessories,83.08,1,87.23,23/01/19,17:16:00,Ewallet,6.4
+881-41-7302,D,Philadelphia,Normal,Female,Fashion accessories,64.99,1,68.24,26/01/19,10:06:00,Credit card,4.5
+373-09-4567,D,Houston,Normal,Male,Food and beverages,77.56,10,814.38,14/03/19,20:35:00,Ewallet,6.9
+642-30-6693,D,Los Angeles,Normal,Female,Sports and travel,54.51,6,343.41,17/03/19,13:54:00,Ewallet,7.8
+484-22-8230,E,Houston,Member,Female,Fashion accessories,51.89,7,381.39,08/01/19,20:08:00,Cash,4.5
+830-58-2383,C,San Diego,Normal,Male,Home and lifestyle,31.75,4,133.35,08/02/19,15:26:00,Cash,8.6
+559-98-9873,E,San Diego,Member,Female,Fashion accessories,53.65,7,394.33,10/02/19,12:56:00,Ewallet,5.2
+544-32-5024,B,New York,Member,Female,Food and beverages,49.79,4,209.12,28/03/19,19:16:00,Credit card,6.4
+318-12-0304,C,San Antonio,Normal,Male,Fashion accessories,30.61,1,32.14,23/01/19,12:20:00,Ewallet,5.2
+349-97-8902,E,Houston,Member,Male,Food and beverages,57.89,2,121.57,17/01/19,10:37:00,Ewallet,8.9
+421-95-9805,E,Dallas,Normal,Female,Electronic accessories,28.96,1,30.41,07/02/19,10:18:00,Credit card,6.2
+277-35-5865,B,Chicago,Member,Female,Food and beverages,98.97,9,935.27,09/03/19,11:23:00,Cash,6.7
+789-23-8625,B,Los Angeles,Member,Male,Fashion accessories,93.22,3,293.64,24/01/19,11:45:00,Cash,7.2
+284-54-4231,E,San Diego,Member,Male,Sports and travel,80.93,1,84.98,19/01/19,16:08:00,Credit card,9
+443-59-0061,D,San Diego,Member,Male,Food and beverages,67.45,10,708.23,03/02/19,11:25:00,Ewallet,4.2
+509-29-3912,B,Chicago,Member,Female,Sports and travel,38.72,9,365.90,20/03/19,12:24:00,Ewallet,4.2
+327-40-9673,D,New York,Member,Male,Sports and travel,72.6,6,457.38,13/01/19,19:51:00,Cash,6.9
+840-19-2096,D,New York,Member,Male,Electronic accessories,87.91,5,461.53,14/03/19,18:10:00,Ewallet,4.4
+828-46-6863,B,San Jose,Member,Male,Food and beverages,98.53,6,620.74,23/01/19,11:22:00,Credit card,4
+641-96-3695,D,San Diego,Member,Female,Fashion accessories,43.46,6,273.80,07/02/19,17:55:00,Ewallet,8.5
+420-97-3340,D,San Antonio,Normal,Female,Food and beverages,71.68,3,225.79,28/03/19,15:30:00,Credit card,9.2
+436-54-4512,E,Houston,Member,Female,Food and beverages,91.61,1,96.19,20/03/19,19:44:00,Cash,9.8
+670-79-6321,D,San Antonio,Member,Female,Home and lifestyle,94.59,7,695.24,17/01/19,15:27:00,Credit card,4.9
+852-62-7105,C,Los Angeles,Normal,Female,Fashion accessories,83.25,10,874.13,12/01/19,11:25:00,Credit card,4.4
+598-06-7312,B,Dallas,Member,Male,Fashion accessories,91.35,1,95.92,16/02/19,15:42:00,Cash,6.8
+135-13-8269,B,San Antonio,Member,Female,Food and beverages,78.88,2,165.65,26/01/19,16:04:00,Cash,9.1
+816-57-2053,E,Chicago,Normal,Male,Sports and travel,60.87,2,127.83,09/03/19,12:37:00,Ewallet,8.7
+628-90-8624,B,San Diego,Member,Male,Health and beauty,82.58,10,867.09,14/03/19,14:41:00,Cash,5
+856-66-2701,C,Los Angeles,Member,Male,Home and lifestyle,53.3,3,167.90,25/01/19,14:19:00,Ewallet,7.5
+308-39-1707,D,Chicago,Normal,Female,Fashion accessories,12.09,1,12.69,26/01/19,18:19:00,Credit card,8.2
+149-61-1929,D,San Jose,Normal,Male,Sports and travel,64.19,10,674.00,19/01/19,14:08:00,Credit card,6.7
+655-07-2265,B,San Antonio,Normal,Male,Electronic accessories,78.31,3,246.68,05/03/19,16:38:00,Ewallet,5.4
+589-02-8023,D,Philadelphia,Member,Male,Food and beverages,83.77,2,175.92,15/01/19,10:54:00,Credit card,7
+420-04-7590,C,Chicago,Normal,Male,Home and lifestyle,99.7,3,314.06,18/03/19,11:29:00,Ewallet,4.7
+182-88-2763,D,Phoenix,Member,Male,Food and beverages,79.91,3,251.72,20/03/19,19:28:00,Credit card,5
+188-55-0967,C,San Diego,Member,Male,Health and beauty,66.47,10,697.94,15/01/19,15:01:00,Credit card,5
+610-46-4100,E,Houston,Normal,Male,Health and beauty,28.95,7,212.78,03/03/19,20:31:00,Credit card,6
+318-81-2368,E,New York,Normal,Female,Electronic accessories,46.2,1,48.51,19/03/19,12:16:00,Cash,6.3
+364-33-8584,B,Chicago,Member,Female,Food and beverages,17.63,5,92.56,08/03/19,15:27:00,Cash,8.5
+665-63-9737,C,San Jose,Normal,Male,Fashion accessories,52.42,3,165.12,27/02/19,17:36:00,Ewallet,7.5
+695-09-5146,B,Chicago,Member,Female,Food and beverages,98.79,3,311.19,23/02/19,20:00:00,Ewallet,6.4
+155-45-3814,D,Los Angeles,Member,Female,Electronic accessories,88.55,8,743.82,19/03/19,15:29:00,Ewallet,4.7
+794-32-2436,D,Phoenix,Member,Male,Electronic accessories,55.67,2,116.91,27/03/19,15:08:00,Ewallet,6
+131-15-8856,E,San Diego,Member,Female,Food and beverages,72.52,8,609.17,30/03/19,19:26:00,Credit card,4
+273-84-2164,C,Los Angeles,Member,Male,Electronic accessories,12.05,5,63.26,16/02/19,15:53:00,Ewallet,5.5
+706-36-6154,D,Chicago,Member,Male,Home and lifestyle,19.36,9,182.95,18/01/19,18:43:00,Ewallet,8.7
+778-89-7974,B,Chicago,Normal,Male,Health and beauty,70.21,6,442.32,30/03/19,14:58:00,Cash,7.4
+574-31-8277,C,Dallas,Member,Male,Fashion accessories,33.63,1,35.31,20/03/19,19:55:00,Cash,5.6
+859-71-0933,E,Philadelphia,Member,Female,Sports and travel,15.49,2,32.53,16/01/19,15:10:00,Cash,6.3
+740-11-5257,D,Houston,Normal,Male,Electronic accessories,24.74,10,259.77,24/02/19,16:44:00,Cash,7.1
+369-82-2676,B,Philadelphia,Normal,Male,Electronic accessories,75.66,5,397.22,15/01/19,18:22:00,Ewallet,7.8
+563-47-4072,D,San Antonio,Normal,Female,Health and beauty,55.81,6,351.60,22/01/19,11:52:00,Cash,9.9
+742-04-5161,B,Houston,Member,Male,Home and lifestyle,72.78,10,764.19,03/02/19,17:24:00,Cash,7.3
+149-15-7606,E,Chicago,Member,Male,Sports and travel,37.32,9,352.67,06/03/19,15:31:00,Ewallet,5.1
+133-77-3154,D,San Diego,Member,Male,Fashion accessories,60.18,4,252.76,16/02/19,18:04:00,Credit card,9.4
+169-52-4504,E,San Jose,Normal,Female,Electronic accessories,15.69,3,49.42,14/03/19,14:13:00,Credit card,5.8
+250-81-7186,B,Houston,Normal,Female,Electronic accessories,99.69,1,104.67,27/02/19,10:23:00,Credit card,8
+562-12-5430,E,Los Angeles,Member,Female,Fashion accessories,88.15,3,277.67,18/01/19,10:11:00,Ewallet,7.9
+816-72-8853,E,San Antonio,Member,Female,Sports and travel,27.93,5,146.63,29/01/19,15:48:00,Cash,5.9
+491-38-3499,D,Phoenix,Member,Male,Fashion accessories,55.45,1,58.22,26/02/19,17:46:00,Credit card,4.9
+322-02-2271,B,Phoenix,Normal,Female,Sports and travel,42.97,3,135.36,03/02/19,11:46:00,Cash,9.3
+842-29-4695,D,San Diego,Member,Male,Sports and travel,17.14,7,125.98,16/01/19,12:07:00,Credit card,7.9
+725-67-2480,D,San Diego,Member,Female,Fashion accessories,58.75,6,370.13,24/03/19,18:14:00,Credit card,5.9
+641-51-2661,D,San Antonio,Member,Female,Food and beverages,87.1,10,914.55,12/02/19,14:45:00,Credit card,9.9
+714-02-3114,D,San Diego,Normal,Female,Sports and travel,98.8,2,207.48,21/02/19,11:39:00,Cash,7.7
+518-17-2983,D,San Antonio,Normal,Female,Fashion accessories,48.63,4,204.25,04/02/19,15:44:00,Ewallet,7.6
+779-42-2410,B,Chicago,Member,Male,Food and beverages,57.74,3,181.88,20/02/19,13:06:00,Ewallet,7.7
+190-14-3147,C,Dallas,Normal,Female,Health and beauty,17.97,4,75.47,23/02/19,20:43:00,Ewallet,6.4
+408-66-6712,D,Los Angeles,Member,Female,Health and beauty,47.71,6,300.57,16/02/19,14:19:00,Ewallet,4.4
+679-22-6530,B,Phoenix,Normal,Female,Sports and travel,40.62,2,85.30,17/01/19,10:01:00,Credit card,4.1
+588-47-8641,E,New York,Member,Male,Fashion accessories,56.04,10,588.42,14/01/19,19:30:00,Ewallet,4.4
+642-61-4706,E,Dallas,Member,Male,Food and beverages,93.4,2,196.14,30/03/19,16:34:00,Cash,5.5
+576-31-4774,D,Philadelphia,Normal,Female,Health and beauty,73.41,3,231.24,02/03/19,13:10:00,Ewallet,4
+556-41-6224,E,Chicago,Normal,Male,Health and beauty,33.64,8,282.58,15/02/19,17:10:00,Credit card,9.3
+811-03-8790,C,Philadelphia,Normal,Female,Electronic accessories,45.48,10,477.54,01/03/19,10:22:00,Credit card,4.8
+242-11-3142,E,Phoenix,Member,Male,Fashion accessories,83.77,2,175.92,24/02/19,19:57:00,Cash,4.6
+752-23-3760,D,New York,Member,Female,Sports and travel,64.08,7,470.99,19/02/19,19:29:00,Credit card,7.3
+274-05-5470,D,New York,Member,Female,Food and beverages,73.47,4,308.57,23/02/19,18:30:00,Cash,6
+648-94-3045,C,Dallas,Normal,Male,Health and beauty,58.95,10,618.98,07/02/19,14:27:00,Ewallet,8.1
+130-67-4723,D,Houston,Member,Male,Food and beverages,48.5,6,305.55,11/01/19,13:57:00,Ewallet,9.4
+528-87-5606,C,Los Angeles,Member,Female,Electronic accessories,39.48,1,41.45,12/02/19,19:43:00,Cash,6.5
+320-85-2052,D,Chicago,Normal,Female,Sports and travel,34.81,1,36.55,14/01/19,10:11:00,Credit card,7
+370-96-0655,C,Chicago,Normal,Female,Fashion accessories,49.32,6,310.72,09/01/19,13:46:00,Ewallet,7.1
+105-10-6182,D,Los Angeles,Member,Male,Fashion accessories,21.48,2,45.11,27/02/19,12:22:00,Ewallet,6.6
+510-79-0415,B,Chicago,Member,Female,Sports and travel,23.08,6,145.40,24/01/19,19:20:00,Ewallet,4.9
+241-96-5076,D,New York,Member,Female,Home and lifestyle,49.1,2,103.11,08/01/19,12:58:00,Credit card,6.4
+767-97-4650,B,New York,Member,Female,Sports and travel,64.83,2,136.14,08/01/19,11:59:00,Credit card,8
+648-83-1321,B,Chicago,Member,Male,Home and lifestyle,63.56,10,667.38,16/01/19,17:59:00,Cash,4.3
+173-57-2300,C,San Antonio,Member,Male,Sports and travel,72.88,2,153.05,13/03/19,12:51:00,Cash,6.1
+305-03-2383,C,Dallas,Normal,Female,Food and beverages,67.1,3,211.37,15/02/19,10:36:00,Cash,7.5
+394-55-6384,B,Dallas,Member,Female,Sports and travel,70.19,9,663.30,25/01/19,13:38:00,Cash,6.7
+266-20-6657,E,San Antonio,Member,Male,Food and beverages,55.04,7,404.54,12/03/19,19:39:00,Ewallet,5.2
+689-05-1884,C,New York,Member,Male,Health and beauty,48.63,10,510.62,04/03/19,12:44:00,Cash,8.8
+196-01-2849,B,New York,Member,Female,Fashion accessories,73.38,7,539.34,10/02/19,13:56:00,Cash,9.5
+372-62-5264,C,San Jose,Normal,Female,Food and beverages,52.6,9,497.07,16/01/19,14:42:00,Cash,7.6
+800-09-8606,C,Los Angeles,Member,Female,Home and lifestyle,87.37,5,458.69,29/01/19,19:45:00,Cash,6.6
+182-52-7000,C,Chicago,Member,Female,Sports and travel,27.04,4,113.57,01/01/19,20:26:00,Ewallet,6.9
+826-58-8051,B,Philadelphia,Normal,Male,Home and lifestyle,62.19,4,261.20,06/01/19,19:46:00,Ewallet,4.3
+868-06-0466,C,San Antonio,Member,Male,Electronic accessories,69.58,9,657.53,19/02/19,19:38:00,Credit card,7.8
+751-41-9720,E,Dallas,Normal,Male,Home and lifestyle,97.5,10,1023.75,12/01/19,16:18:00,Ewallet,8
+626-43-7888,B,Los Angeles,Normal,Female,Fashion accessories,60.41,8,507.44,07/02/19,12:23:00,Ewallet,9.6
+176-64-7711,C,Los Angeles,Normal,Male,Food and beverages,32.32,3,101.81,27/03/19,19:11:00,Credit card,4.3
+191-29-0321,D,Philadelphia,Member,Female,Fashion accessories,19.77,10,207.59,27/02/19,18:57:00,Credit card,5
+729-06-2010,B,Dallas,Member,Male,Health and beauty,80.47,9,760.44,06/01/19,11:18:00,Cash,9.2
+640-48-5028,D,San Jose,Member,Female,Home and lifestyle,88.39,9,835.29,02/03/19,12:40:00,Cash,6.3
+186-79-9562,E,Houston,Normal,Male,Health and beauty,71.77,7,527.51,29/03/19,14:06:00,Cash,8.9
+834-45-5519,B,Houston,Normal,Female,Electronic accessories,43,4,180.60,31/01/19,20:48:00,Ewallet,7.6
+162-65-8559,E,Dallas,Member,Male,Food and beverages,68.98,1,72.43,21/01/19,20:13:00,Cash,4.8
+760-27-5490,C,San Diego,Normal,Male,Fashion accessories,15.62,8,131.21,20/01/19,20:37:00,Ewallet,9.1
+445-30-9252,D,Los Angeles,Normal,Male,Sports and travel,25.7,3,80.96,17/01/19,17:59:00,Ewallet,6.1
+786-94-2700,E,San Antonio,Member,Male,Food and beverages,80.62,6,507.91,28/02/19,20:18:00,Cash,9.1
+728-88-7867,C,San Diego,Member,Female,Home and lifestyle,75.53,4,317.23,19/03/19,15:52:00,Ewallet,8.3
+183-21-3799,E,Houston,Normal,Female,Electronic accessories,77.63,9,733.60,19/02/19,15:14:00,Ewallet,7.2
+268-20-3585,B,San Diego,Normal,Female,Health and beauty,13.85,9,130.88,04/02/19,12:50:00,Ewallet,6
+735-32-9839,E,Philadelphia,Member,Male,Fashion accessories,98.7,8,829.08,31/01/19,10:36:00,Ewallet,8.5
+258-92-7466,B,Houston,Normal,Female,Health and beauty,35.68,5,187.32,06/02/19,18:33:00,Credit card,6.6
+857-16-3520,C,San Diego,Member,Female,Fashion accessories,71.46,7,525.23,28/03/19,16:06:00,Ewallet,4.5
+482-17-1179,C,Chicago,Member,Male,Electronic accessories,11.94,3,37.61,19/01/19,12:47:00,Credit card,8.1
+788-21-5741,B,Chicago,Normal,Male,Fashion accessories,45.38,3,142.95,17/02/19,13:34:00,Credit card,7.2
+821-14-9046,C,Philadelphia,Member,Female,Fashion accessories,17.48,6,110.12,18/01/19,15:04:00,Credit card,6.1
+418-05-0656,B,San Jose,Normal,Female,Fashion accessories,25.56,7,187.87,02/02/19,20:42:00,Cash,7.1
+678-79-0726,D,Los Angeles,Member,Female,Sports and travel,90.63,9,856.45,18/01/19,15:28:00,Cash,5.1
+776-68-1096,D,Chicago,Normal,Male,Home and lifestyle,44.12,3,138.98,18/03/19,13:45:00,Credit card,7.9
+592-46-1692,B,Chicago,Member,Female,Food and beverages,36.77,7,270.26,11/01/19,20:10:00,Cash,7.4
+434-35-9162,B,San Diego,Member,Male,Food and beverages,23.34,4,98.03,04/02/19,18:53:00,Ewallet,7.4
+149-14-0304,D,Chicago,Member,Female,Health and beauty,28.5,8,239.40,06/02/19,14:24:00,Cash,6.6
+442-44-6497,C,Chicago,Member,Male,Home and lifestyle,55.57,3,175.05,08/01/19,11:42:00,Credit card,5.9
+174-64-0215,C,Chicago,Normal,Male,Sports and travel,69.74,10,732.27,05/03/19,17:49:00,Credit card,8.9
+210-74-9613,E,Los Angeles,Normal,Male,Fashion accessories,97.26,4,408.49,16/03/19,15:33:00,Ewallet,6.8
+299-29-0180,E,San Antonio,Member,Female,Home and lifestyle,52.18,7,383.52,09/03/19,10:54:00,Cash,9.3
+247-11-2470,C,San Jose,Member,Female,Fashion accessories,22.32,4,93.74,01/03/19,16:23:00,Credit card,4.4
+635-28-5728,B,San Antonio,Normal,Male,Health and beauty,56,3,176.40,28/02/19,19:33:00,Ewallet,4.8
+756-49-0168,D,San Diego,Member,Male,Fashion accessories,19.7,1,20.69,08/02/19,11:39:00,Ewallet,9.5
+438-23-1242,D,San Antonio,Normal,Male,Electronic accessories,75.88,7,557.72,24/01/19,10:38:00,Ewallet,8.9
+238-45-6950,C,Philadelphia,Member,Male,Food and beverages,53.72,1,56.41,01/03/19,20:03:00,Ewallet,6.4
+607-65-2441,C,San Jose,Member,Male,Health and beauty,81.95,10,860.48,10/03/19,12:39:00,Credit card,6
+386-27-7606,B,San Jose,Member,Female,Home and lifestyle,81.2,7,596.82,23/03/19,15:59:00,Credit card,8.1
+137-63-5492,B,Philadelphia,Normal,Male,Electronic accessories,58.76,10,616.98,29/01/19,14:26:00,Ewallet,9
+197-77-7132,B,New York,Member,Male,Electronic accessories,91.56,8,769.10,12/01/19,18:22:00,Ewallet,6
+805-86-0265,E,San Diego,Normal,Male,Home and lifestyle,93.96,9,887.92,20/03/19,11:32:00,Cash,9.8
+733-29-1227,E,Los Angeles,Normal,Male,Home and lifestyle,55.61,7,408.73,23/03/19,12:41:00,Cash,8.5
+451-73-2711,C,Philadelphia,Normal,Male,Food and beverages,84.83,1,89.07,14/01/19,15:20:00,Ewallet,8.8
+373-14-0504,E,San Jose,Member,Female,Sports and travel,71.63,2,150.42,12/02/19,14:33:00,Ewallet,8.8
+546-80-2899,B,Chicago,Member,Male,Home and lifestyle,37.69,2,79.15,20/02/19,15:29:00,Ewallet,9.5
+345-68-9016,B,San Diego,Member,Female,Sports and travel,31.67,8,266.03,02/01/19,16:19:00,Credit card,5.6
+390-17-5806,B,Philadelphia,Member,Female,Food and beverages,38.42,1,40.34,02/02/19,16:33:00,Cash,8.6
+457-13-1708,B,San Jose,Member,Male,Fashion accessories,65.23,10,684.92,08/01/19,19:07:00,Credit card,5.2
+664-14-2882,D,Philadelphia,Member,Female,Home and lifestyle,10.53,5,55.28,30/01/19,14:43:00,Credit card,5.8
+487-79-6868,E,Chicago,Member,Female,Home and lifestyle,12.29,9,116.14,26/03/19,19:28:00,Credit card,8
+314-23-4520,D,Dallas,Member,Male,Health and beauty,81.23,7,597.04,15/01/19,20:44:00,Cash,9
+210-30-7976,E,Los Angeles,Member,Female,Fashion accessories,22.32,4,93.74,14/03/19,11:16:00,Ewallet,4.1
+585-86-8361,B,Philadelphia,Normal,Female,Food and beverages,27.28,5,143.22,03/02/19,10:31:00,Credit card,8.6
+807-14-7833,C,New York,Member,Female,Electronic accessories,17.42,10,182.91,22/02/19,12:30:00,Ewallet,7
+775-72-1988,D,San Antonio,Normal,Male,Home and lifestyle,73.28,5,384.72,24/01/19,15:05:00,Ewallet,8.4
+288-38-3758,E,Philadelphia,Member,Female,Fashion accessories,84.87,3,267.34,25/01/19,18:30:00,Ewallet,7.4
+652-43-6591,B,San Antonio,Normal,Female,Fashion accessories,97.29,8,817.24,09/03/19,13:18:00,Credit card,6.2
+785-96-0615,E,Houston,Member,Female,Electronic accessories,35.74,8,300.22,17/02/19,15:28:00,Ewallet,4.9
+406-46-7107,E,Chicago,Normal,Female,Home and lifestyle,96.52,6,608.08,11/01/19,11:52:00,Cash,4.5
+250-17-5703,D,Philadelphia,Member,Male,Food and beverages,18.85,10,197.93,27/02/19,18:24:00,Ewallet,5.6
+156-95-3964,C,San Antonio,Normal,Female,Food and beverages,55.39,4,232.64,25/03/19,15:19:00,Ewallet,8
+842-40-8179,C,Los Angeles,Member,Female,Food and beverages,77.2,10,810.60,11/02/19,10:38:00,Credit card,5.6
+525-09-8450,D,San Jose,Normal,Male,Electronic accessories,72.13,10,757.37,31/01/19,15:12:00,Credit card,4.2
+410-67-1709,B,San Jose,Member,Female,Fashion accessories,63.88,8,536.59,20/01/19,17:48:00,Ewallet,9.9
+587-73-4862,E,San Diego,Member,Female,Health and beauty,10.69,5,56.12,26/03/19,11:07:00,Ewallet,7.6
+787-87-2010,E,Los Angeles,Member,Male,Health and beauty,55.5,4,233.10,20/01/19,15:48:00,Credit card,6.6
+593-14-4239,B,Chicago,Normal,Female,Home and lifestyle,95.46,8,801.86,05/03/19,19:40:00,Ewallet,4.7
+801-88-0346,E,Chicago,Normal,Female,Fashion accessories,76.06,3,239.59,05/01/19,20:30:00,Credit card,9.8
+388-76-2555,C,New York,Normal,Male,Sports and travel,13.69,6,86.25,13/02/19,13:59:00,Cash,6.3
+711-31-1234,D,Dallas,Normal,Female,Electronic accessories,95.64,4,401.69,16/03/19,18:51:00,Cash,7.9
+886-54-6089,E,Phoenix,Normal,Female,Home and lifestyle,11.43,6,72.01,15/01/19,17:24:00,Cash,7.7
+707-32-7409,E,New York,Member,Female,Sports and travel,95.54,4,401.27,26/02/19,11:58:00,Ewallet,4.5
+759-98-4285,E,Phoenix,Member,Female,Health and beauty,85.87,7,631.14,27/02/19,19:01:00,Credit card,8
+201-63-8275,D,Los Angeles,Member,Female,Sports and travel,67.99,7,499.73,17/02/19,16:50:00,Ewallet,5.7
+471-06-8611,B,Chicago,Normal,Female,Food and beverages,52.42,1,55.04,06/02/19,10:22:00,Credit card,6.3
+200-16-5952,E,Dallas,Member,Male,Food and beverages,65.65,2,137.87,17/01/19,16:46:00,Cash,6
+120-54-2248,B,San Antonio,Normal,Female,Food and beverages,28.86,5,151.52,22/01/19,18:08:00,Credit card,8
+102-77-2261,E,San Diego,Member,Male,Health and beauty,65.31,7,480.03,05/03/19,18:02:00,Credit card,4.2
+875-31-8302,C,Houston,Normal,Male,Sports and travel,93.38,1,98.05,03/01/19,13:07:00,Cash,9.6
+102-06-2002,C,New York,Member,Male,Sports and travel,25.25,5,132.56,20/03/19,17:52:00,Cash,6.1
+457-94-0464,D,San Antonio,Member,Male,Electronic accessories,87.87,9,830.37,31/01/19,20:32:00,Ewallet,5.6
+629-42-4133,B,San Antonio,Normal,Male,Health and beauty,21.8,8,183.12,19/02/19,19:24:00,Cash,8.3
+534-53-3526,C,Dallas,Normal,Female,Sports and travel,94.76,4,397.99,11/02/19,16:06:00,Ewallet,7.8
+307-04-2070,D,Dallas,Member,Female,Fashion accessories,30.62,1,32.15,05/02/19,14:14:00,Credit card,4.1
+468-99-7231,B,San Antonio,Normal,Female,Home and lifestyle,44.01,8,369.68,03/03/19,17:36:00,Cash,8.8
+516-77-6464,C,San Antonio,Member,Female,Health and beauty,10.16,5,53.34,24/02/19,13:08:00,Ewallet,4.1
+404-91-5964,B,Los Angeles,Normal,Male,Electronic accessories,74.58,7,548.16,04/02/19,16:09:00,Credit card,9
+886-77-9084,B,Los Angeles,Normal,Male,Electronic accessories,71.89,8,603.88,19/02/19,11:33:00,Ewallet,5.5
+790-38-4466,C,San Diego,Normal,Female,Health and beauty,10.99,5,57.70,23/01/19,10:18:00,Credit card,9.3
+704-10-4056,C,Houston,Member,Male,Health and beauty,60.47,3,190.48,14/01/19,10:55:00,Credit card,5.6
+497-37-6538,B,Philadelphia,Normal,Male,Sports and travel,58.91,7,432.99,17/01/19,15:15:00,Ewallet,9.7
+651-96-5970,B,Houston,Normal,Male,Fashion accessories,46.41,1,48.73,03/03/19,20:06:00,Credit card,4
+400-80-4065,D,Dallas,Member,Male,Health and beauty,68.55,4,287.91,15/02/19,20:21:00,Credit card,9.2
+744-16-7898,C,San Jose,Normal,Female,Home and lifestyle,97.37,10,1022.39,15/01/19,13:48:00,Credit card,4.9
+263-12-5321,B,San Antonio,Member,Male,Electronic accessories,92.6,7,680.61,27/02/19,12:52:00,Credit card,9.3
+702-72-0487,B,Chicago,Normal,Female,Electronic accessories,46.61,2,97.88,26/02/19,12:28:00,Credit card,6.6
+605-83-1050,E,New York,Normal,Male,Fashion accessories,27.18,2,57.08,15/03/19,16:26:00,Ewallet,4.3
+443-60-9639,C,San Antonio,Member,Female,Home and lifestyle,60.87,1,63.91,24/01/19,13:24:00,Cash,5.5
+864-24-7918,D,New York,Member,Female,Sports and travel,24.49,10,257.15,22/02/19,15:15:00,Cash,8.1
+359-94-5395,D,San Antonio,Normal,Male,Health and beauty,92.78,1,97.42,15/03/19,10:50:00,Credit card,9.8
+401-09-4232,C,Chicago,Member,Male,Home and lifestyle,86.69,5,455.12,11/02/19,18:38:00,Ewallet,9.4
+751-15-6198,C,New York,Normal,Male,Sports and travel,23.01,6,144.96,12/01/19,16:45:00,Ewallet,7.9
+324-41-6833,C,Philadelphia,Member,Female,Electronic accessories,30.2,8,253.68,03/03/19,19:30:00,Ewallet,5.1
+474-33-8305,D,Philadelphia,Member,Male,Fashion accessories,67.39,7,495.32,23/03/19,13:23:00,Ewallet,6.9
+759-29-9521,B,New York,Member,Female,Fashion accessories,48.96,9,462.67,04/03/19,11:27:00,Cash,8
+831-81-6575,D,San Antonio,Member,Female,Electronic accessories,75.59,9,714.33,23/02/19,11:12:00,Cash,8
+220-68-6701,B,San Diego,Normal,Female,Home and lifestyle,77.47,4,325.37,17/03/19,16:36:00,Cash,4.2
+618-34-8551,B,Los Angeles,Normal,Female,Sports and travel,93.18,2,195.68,16/01/19,18:41:00,Credit card,8.5
+257-60-7754,D,Phoenix,Normal,Female,Electronic accessories,50.23,4,210.97,08/01/19,17:12:00,Cash,9
+559-61-5987,D,Houston,Normal,Female,Health and beauty,17.75,1,18.64,14/01/19,10:38:00,Cash,8.6
+189-55-2313,A,Philadelphia,Normal,Female,Fashion accessories,62.18,10,652.89,31/01/19,10:33:00,Ewallet,6
+565-91-4567,D,San Antonio,Normal,Male,Health and beauty,10.75,8,90.30,15/03/19,14:38:00,Ewallet,6.2
+380-60-5336,C,San Jose,Normal,Female,Electronic accessories,40.26,10,422.73,24/02/19,18:06:00,Credit card,5
+815-04-6282,A,San Antonio,Member,Female,Sports and travel,64.97,5,341.09,08/02/19,12:52:00,Credit card,6.5
+674-56-6360,D,Los Angeles,Normal,Male,Electronic accessories,95.15,1,99.91,22/03/19,14:00:00,Cash,6
+778-34-2523,A,Los Angeles,Member,Female,Electronic accessories,48.62,8,408.41,24/01/19,10:57:00,Cash,5
+499-27-7781,D,Houston,Normal,Female,Food and beverages,53.21,8,446.96,14/03/19,16:45:00,Ewallet,5
+477-59-2456,E,Dallas,Normal,Female,Fashion accessories,45.44,7,333.98,23/01/19,11:15:00,Cash,9.2
+832-51-6761,D,Houston,Normal,Male,Food and beverages,33.88,8,284.59,19/01/19,20:29:00,Ewallet,9.6
+869-11-3082,E,New York,Member,Male,Health and beauty,96.16,4,403.87,27/01/19,20:03:00,Credit card,8.4
+190-59-3964,C,Phoenix,Member,Male,Food and beverages,47.16,5,247.59,03/02/19,14:35:00,Credit card,6
+366-43-6862,B,Phoenix,Normal,Male,Electronic accessories,52.89,4,222.14,25/03/19,16:32:00,Ewallet,6.7
+186-43-8965,A,Chicago,Member,Female,Home and lifestyle,47.68,2,100.13,24/02/19,10:10:00,Credit card,4.1
+784-21-9238,E,Dallas,Member,Male,Sports and travel,10.17,1,10.68,07/02/19,14:15:00,Cash,5.9
+276-75-6884,C,New York,Normal,Female,Health and beauty,68.71,3,216.44,04/03/19,10:05:00,Cash,8.7
+109-86-4363,D,Phoenix,Member,Female,Sports and travel,60.08,7,441.59,14/02/19,11:36:00,Credit card,4.5
+569-76-2760,B,San Antonio,Member,Female,Sports and travel,22.01,4,92.44,29/01/19,18:15:00,Credit card,6.6
+222-42-0244,A,Philadelphia,Member,Female,Health and beauty,72.11,9,681.44,28/01/19,13:53:00,Credit card,7.7
+760-53-9233,C,San Jose,Member,Male,Fashion accessories,41.28,3,130.03,26/03/19,18:37:00,Credit card,8.5
+538-22-0304,D,San Jose,Normal,Male,Electronic accessories,64.95,10,681.98,24/03/19,18:27:00,Cash,5.2
+416-17-9926,A,Houston,Member,Female,Electronic accessories,74.22,10,779.31,01/01/19,14:42:00,Credit card,4.3
+237-44-6163,A,Philadelphia,Normal,Male,Electronic accessories,10.56,8,88.70,24/01/19,17:43:00,Cash,7.6
+636-17-0325,D,San Diego,Normal,Male,Health and beauty,62.57,4,262.79,25/02/19,18:37:00,Cash,9.5
+343-75-9322,E,Philadelphia,Member,Female,Sports and travel,11.85,8,99.54,09/01/19,16:34:00,Cash,4.1
+528-14-9470,D,Houston,Member,Male,Health and beauty,91.3,1,95.87,14/02/19,14:42:00,Ewallet,9.2
+427-45-9297,A,Dallas,Member,Female,Home and lifestyle,40.73,7,299.37,12/03/19,11:01:00,Ewallet,5.4
+807-34-3742,B,Houston,Normal,Male,Fashion accessories,52.38,1,55.00,26/03/19,19:44:00,Cash,5.8
+288-62-1085,E,Dallas,Member,Male,Fashion accessories,38.54,5,202.34,09/01/19,13:34:00,Ewallet,5.6
+670-71-7306,E,San Diego,Normal,Male,Sports and travel,44.63,6,281.17,02/01/19,20:08:00,Credit card,5.1
+660-29-7083,D,Phoenix,Normal,Male,Electronic accessories,55.87,10,586.64,15/01/19,15:01:00,Cash,5.8
+271-77-8740,E,San Antonio,Member,Female,Sports and travel,29.22,6,184.09,01/01/19,11:40:00,Ewallet,5
+497-36-0989,E,San Jose,Normal,Male,Fashion accessories,51.94,3,163.61,15/02/19,15:21:00,Cash,7.9
+291-59-1384,C,New York,Normal,Male,Electronic accessories,60.3,1,63.32,28/02/19,17:38:00,Cash,6
+860-73-6466,C,Chicago,Member,Female,Sports and travel,39.47,2,82.89,02/03/19,16:16:00,Credit card,5
+549-23-9016,A,San Antonio,Member,Female,Food and beverages,14.87,2,31.23,13/02/19,18:15:00,Credit card,8.9
+896-34-0956,A,Chicago,Normal,Male,Fashion accessories,21.32,1,22.39,26/01/19,12:43:00,Cash,5.9
+804-38-3935,A,New York,Member,Male,Electronic accessories,93.78,3,295.41,30/01/19,11:32:00,Credit card,5.9
+585-90-0249,E,Los Angeles,Member,Male,Electronic accessories,73.26,1,76.92,27/01/19,18:08:00,Ewallet,9.7
+862-29-5914,E,Dallas,Normal,Female,Sports and travel,22.38,1,23.50,30/01/19,17:08:00,Credit card,8.6
+845-94-6841,D,San Diego,Member,Female,Food and beverages,72.88,9,688.72,08/01/19,19:38:00,Cash,4
+125-45-2293,D,Los Angeles,Normal,Female,Fashion accessories,99.1,6,624.33,19/01/19,13:11:00,Cash,4.2
+843-73-4724,A,Phoenix,Normal,Male,Fashion accessories,74.1,1,77.81,25/01/19,11:05:00,Cash,9.2
+409-33-9708,E,New York,Normal,Female,Fashion accessories,98.48,2,206.81,19/02/19,10:12:00,Ewallet,9.2
+658-66-3967,B,Philadelphia,Normal,Male,Health and beauty,53.19,7,390.95,14/01/19,15:42:00,Ewallet,5
+866-70-2814,B,Los Angeles,Normal,Female,Electronic accessories,52.79,10,554.30,25/02/19,11:58:00,Ewallet,10
+160-22-2687,B,San Jose,Member,Female,Health and beauty,95.95,5,503.74,23/01/19,14:21:00,Ewallet,8.8
+895-03-6665,D,Los Angeles,Normal,Female,Fashion accessories,36.51,9,345.02,16/02/19,10:52:00,Cash,4.2
+770-42-8960,A,Houston,Normal,Male,Food and beverages,21.12,8,177.41,01/01/19,19:31:00,Cash,6.3
+748-45-2862,D,San Jose,Member,Female,Home and lifestyle,28.31,4,118.90,07/03/19,18:35:00,Cash,8.2
+234-36-2483,E,San Antonio,Normal,Male,Health and beauty,57.59,6,362.82,15/02/19,13:51:00,Cash,5.1
+316-66-3011,A,Los Angeles,Member,Female,Food and beverages,47.63,9,450.10,23/01/19,12:35:00,Cash,5
+848-95-6252,B,Phoenix,Member,Female,Home and lifestyle,86.27,1,90.58,20/02/19,13:24:00,Ewallet,7
+840-76-5966,A,Los Angeles,Member,Male,Sports and travel,12.76,2,26.80,08/01/19,18:06:00,Ewallet,7.8
+152-03-4217,A,San Antonio,Normal,Female,Home and lifestyle,11.28,9,106.60,17/03/19,11:55:00,Credit card,4.3
+533-66-5566,B,Chicago,Normal,Female,Home and lifestyle,51.07,7,375.36,12/01/19,11:42:00,Cash,7
+124-31-1458,B,New York,Member,Female,Electronic accessories,79.59,3,250.71,08/01/19,14:30:00,Cash,6.6
+176-78-1170,B,San Diego,Member,Male,Health and beauty,33.81,3,106.50,26/01/19,15:11:00,Ewallet,7.3
+361-59-0574,A,Los Angeles,Member,Male,Sports and travel,90.53,8,760.45,15/03/19,14:48:00,Credit card,6.5
+101-81-4070,B,San Antonio,Member,Female,Health and beauty,62.82,2,131.92,17/01/19,12:36:00,Ewallet,4.9
+631-34-1880,C,Phoenix,Member,Male,Food and beverages,24.31,3,76.58,08/01/19,19:09:00,Credit card,4.3
+852-82-2749,C,San Diego,Normal,Male,Sports and travel,64.59,4,271.28,06/01/19,13:35:00,Ewallet,9.3
+873-14-6353,E,Dallas,Member,Male,Food and beverages,24.82,7,182.43,16/02/19,10:33:00,Credit card,7.1
+584-66-4073,B,New York,Normal,Male,Fashion accessories,56.5,1,59.33,13/03/19,15:45:00,Ewallet,9.6
+544-55-9589,A,San Antonio,Member,Female,Electronic accessories,21.43,10,225.02,28/01/19,11:51:00,Cash,6.2
+166-19-2553,D,Los Angeles,Member,Male,Sports and travel,89.06,6,561.08,18/01/19,17:26:00,Cash,9.9
+737-88-5876,D,Dallas,Member,Male,Home and lifestyle,23.29,4,97.82,19/03/19,11:52:00,Credit card,5.9
+154-87-7367,D,San Jose,Normal,Male,Home and lifestyle,65.26,8,548.18,15/03/19,14:04:00,Ewallet,6.3
+885-56-0389,B,Chicago,Member,Male,Fashion accessories,52.35,1,54.97,12/02/19,17:49:00,Cash,4
+608-05-3804,D,Philadelphia,Member,Male,Electronic accessories,39.75,1,41.74,25/02/19,20:19:00,Cash,6.1
+448-61-3783,E,Los Angeles,Normal,Female,Electronic accessories,90.02,8,756.17,21/03/19,16:08:00,Credit card,4.5
+761-49-0439,C,New York,Member,Female,Electronic accessories,12.1,8,101.64,19/01/19,10:17:00,Ewallet,8.6
+490-95-0021,C,Los Angeles,Member,Female,Food and beverages,33.21,10,348.71,08/01/19,14:25:00,Ewallet,6
+115-38-7388,D,Dallas,Member,Female,Fashion accessories,10.18,8,85.51,30/03/19,12:51:00,Credit card,9.5
+311-13-6971,D,Dallas,Member,Male,Sports and travel,31.99,10,335.90,20/02/19,15:18:00,Credit card,9.9
+291-55-6563,B,Philadelphia,Member,Female,Home and lifestyle,34.42,6,216.85,30/03/19,12:45:00,Ewallet,7.5
+548-48-3156,B,Houston,Member,Female,Food and beverages,83.34,2,175.01,19/03/19,13:37:00,Cash,7.6
+460-93-5834,C,Phoenix,Normal,Male,Sports and travel,45.58,7,335.01,13/01/19,10:03:00,Cash,5
+325-89-4209,C,San Jose,Member,Male,Food and beverages,87.9,1,92.30,05/02/19,19:42:00,Ewallet,6.7
+884-80-6021,B,Chicago,Member,Female,Electronic accessories,73.47,10,771.44,23/03/19,13:14:00,Ewallet,9.5
+137-74-8729,A,Phoenix,Normal,Female,Fashion accessories,12.19,8,102.40,13/03/19,12:47:00,Ewallet,6.8
+880-46-5796,A,Dallas,Member,Male,Sports and travel,76.92,10,807.66,17/03/19,19:53:00,Ewallet,5.6
+389-70-2397,A,Philadelphia,Normal,Female,Health and beauty,83.66,5,439.22,21/02/19,10:26:00,Cash,7.2
+114-35-5271,D,Los Angeles,Normal,Female,Electronic accessories,57.91,8,486.44,07/02/19,15:06:00,Cash,8.1
+607-76-6216,A,Los Angeles,Member,Female,Fashion accessories,92.49,5,485.57,02/03/19,16:35:00,Credit card,8.6
+715-20-1673,A,Los Angeles,Normal,Male,Electronic accessories,28.38,5,149.00,06/03/19,20:57:00,Cash,9.4
+811-35-1094,A,Dallas,Member,Male,Electronic accessories,50.45,6,317.84,06/02/19,15:16:00,Credit card,8.9
+699-88-1972,E,Houston,Normal,Male,Health and beauty,99.16,8,832.94,28/01/19,17:47:00,Credit card,4.2
+781-84-8059,E,San Diego,Normal,Male,Fashion accessories,60.74,7,446.44,18/01/19,16:23:00,Ewallet,5
+409-49-6995,A,Philadelphia,Member,Female,Food and beverages,47.27,6,297.80,05/02/19,10:17:00,Cash,8.8
+725-54-0677,C,New York,Member,Male,Health and beauty,85.6,7,629.16,02/03/19,13:50:00,Cash,5.3
+146-09-5432,E,Los Angeles,Member,Male,Food and beverages,35.04,9,331.13,09/02/19,19:17:00,Ewallet,4.6
+377-79-7592,B,San Diego,Member,Female,Electronic accessories,44.84,9,423.74,14/01/19,14:00:00,Credit card,7.5
+509-10-0516,D,San Antonio,Normal,Male,Home and lifestyle,45.97,4,193.07,09/02/19,12:02:00,Ewallet,5.1
+595-94-9924,E,Dallas,Member,Female,Health and beauty,27.73,5,145.58,26/03/19,20:21:00,Credit card,4.2
+865-41-9075,D,Philadelphia,Normal,Male,Food and beverages,11.53,7,84.75,28/01/19,17:35:00,Cash,8.1
+545-07-8534,E,Chicago,Normal,Female,Health and beauty,58.32,2,122.47,14/02/19,12:42:00,Ewallet,6
+118-62-1812,B,Los Angeles,Member,Female,Home and lifestyle,78.38,4,329.20,24/03/19,17:56:00,Cash,7.9
+450-42-3339,C,San Diego,Normal,Male,Health and beauty,84.61,10,888.41,09/02/19,18:58:00,Credit card,8.8
+851-98-3555,D,New York,Normal,Female,Health and beauty,82.88,5,435.12,24/03/19,14:08:00,Credit card,6.6
+186-71-5196,B,San Diego,Member,Female,Food and beverages,79.54,2,167.03,27/03/19,16:30:00,Ewallet,6.2
+624-01-8356,C,Dallas,Normal,Female,Home and lifestyle,49.01,10,514.61,27/01/19,10:44:00,Credit card,4.2
+313-66-9943,E,New York,Member,Female,Food and beverages,29.15,3,91.82,27/03/19,20:29:00,Credit card,7.3
+151-27-8496,B,New York,Normal,Female,Electronic accessories,56.13,4,235.75,19/01/19,11:43:00,Ewallet,8.6
+453-33-6436,B,Chicago,Normal,Female,Home and lifestyle,93.12,8,782.21,07/02/19,10:09:00,Cash,6.8
+522-57-8364,C,Los Angeles,Member,Male,Fashion accessories,51.34,8,431.26,31/01/19,10:00:00,Ewallet,7.6
+459-45-2396,A,Houston,Member,Female,Food and beverages,99.6,3,313.74,25/02/19,18:45:00,Cash,5.8
+717-96-4189,D,Dallas,Normal,Female,Electronic accessories,35.49,6,223.59,02/02/19,12:40:00,Cash,4.1
+722-13-2115,D,New York,Member,Male,Sports and travel,42.85,1,44.99,14/03/19,15:36:00,Credit card,9.3
+749-81-8133,E,Dallas,Normal,Female,Fashion accessories,94.67,4,397.61,11/03/19,12:04:00,Cash,6.8
+777-67-2495,E,Chicago,Normal,Male,Home and lifestyle,68.97,3,217.26,22/02/19,11:26:00,Ewallet,8.7
+636-98-3364,A,Philadelphia,Member,Female,Electronic accessories,26.26,3,82.72,02/03/19,12:36:00,Ewallet,6.3
+246-55-6923,A,Philadelphia,Member,Female,Home and lifestyle,35.79,9,338.22,10/03/19,15:06:00,Credit card,5.1
+181-82-6255,D,San Diego,Normal,Female,Home and lifestyle,16.37,6,103.13,08/02/19,10:58:00,Cash,7
+838-02-1821,E,San Antonio,Member,Female,Home and lifestyle,12.73,2,26.73,22/02/19,12:10:00,Credit card,5.2
+887-42-0517,A,San Antonio,Normal,Female,Sports and travel,83.14,7,611.08,10/01/19,10:31:00,Credit card,6.6
+457-12-0244,E,Chicago,Member,Female,Sports and travel,35.22,6,221.89,14/03/19,13:49:00,Ewallet,6.5
+226-34-0034,D,Philadelphia,Normal,Female,Electronic accessories,13.78,4,57.88,10/01/19,11:10:00,Ewallet,9
+321-49-7382,E,Los Angeles,Member,Male,Sports and travel,88.31,1,92.73,15/02/19,17:38:00,Credit card,5.2
+397-25-8725,C,San Jose,Member,Female,Health and beauty,39.62,9,374.41,13/01/19,17:54:00,Credit card,6.8
+431-66-2305,D,Los Angeles,Normal,Female,Electronic accessories,88.25,9,833.96,15/02/19,20:51:00,Credit card,7.6
+825-94-5922,A,San Jose,Normal,Male,Sports and travel,25.31,2,53.15,02/03/19,19:26:00,Ewallet,7.2
+641-62-7288,C,New York,Normal,Male,Home and lifestyle,99.92,6,629.50,24/03/19,13:33:00,Ewallet,7.1
+756-93-1854,D,Phoenix,Member,Female,Fashion accessories,83.35,2,175.04,02/02/19,14:05:00,Credit card,9.5
+243-55-8457,C,New York,Normal,Female,Food and beverages,74.44,10,781.62,27/02/19,11:40:00,Ewallet,5.1
+458-10-8612,E,Philadelphia,Normal,Male,Health and beauty,64.08,7,470.99,20/01/19,12:27:00,Ewallet,7.6
+501-61-1753,A,San Diego,Normal,Female,Home and lifestyle,63.15,6,397.85,03/01/19,20:24:00,Ewallet,9.8
+235-06-8510,B,San Antonio,Member,Male,Home and lifestyle,85.72,3,270.02,24/01/19,20:59:00,Ewallet,5.1
+433-08-7822,A,Los Angeles,Normal,Female,Health and beauty,78.89,7,579.84,05/01/19,19:48:00,Ewallet,7.5
+361-85-2571,D,Phoenix,Normal,Female,Sports and travel,89.48,5,469.77,30/03/19,10:18:00,Cash,7.4
+131-70-8179,C,San Diego,Member,Female,Health and beauty,92.09,3,290.08,17/02/19,16:27:00,Cash,4.2
+500-02-2261,E,Chicago,Normal,Female,Food and beverages,57.29,6,360.93,21/03/19,17:04:00,Ewallet,5.9
+720-72-2436,A,Philadelphia,Normal,Male,Food and beverages,66.52,4,279.38,02/03/19,18:14:00,Ewallet,6.9
+702-83-5291,B,Phoenix,Member,Male,Fashion accessories,99.82,9,943.30,27/03/19,10:43:00,Cash,6.6
+809-69-9497,D,Los Angeles,Normal,Female,Home and lifestyle,45.68,10,479.64,19/01/19,19:30:00,Ewallet,5.7
+449-16-6770,B,Philadelphia,Normal,Male,Health and beauty,50.79,5,266.65,19/02/19,14:53:00,Credit card,5.3
+333-23-2632,B,New York,Member,Male,Health and beauty,10.08,7,74.09,28/03/19,20:14:00,Cash,4.2
+489-82-1237,B,Los Angeles,Normal,Female,Electronic accessories,93.88,7,690.02,05/01/19,11:51:00,Credit card,7.3
+859-97-6048,A,San Antonio,Member,Male,Electronic accessories,84.25,2,176.93,26/03/19,14:13:00,Credit card,5.3
+676-10-2200,E,New York,Member,Male,Fashion accessories,53.78,1,56.47,03/02/19,20:13:00,Ewallet,4.7
+373-88-1424,A,Los Angeles,Member,Male,Home and lifestyle,35.81,5,188.00,06/02/19,18:44:00,Ewallet,7.9
+365-16-4334,A,Houston,Normal,Female,Food and beverages,26.43,8,222.01,24/02/19,14:26:00,Ewallet,8.9
+503-21-4385,E,Chicago,Member,Male,Health and beauty,39.91,3,125.72,21/02/19,12:40:00,Ewallet,9.3
+305-89-2768,D,San Diego,Member,Female,Home and lifestyle,21.9,3,68.99,09/01/19,18:43:00,Ewallet,4.7
+574-80-1489,D,Houston,Member,Female,Food and beverages,62.85,4,263.97,25/02/19,13:22:00,Ewallet,8.7
+784-08-0310,D,San Jose,Member,Female,Food and beverages,21.04,4,88.37,13/01/19,13:58:00,Cash,7.6
+200-40-6154,A,San Antonio,Member,Male,Home and lifestyle,65.91,6,415.23,09/02/19,11:45:00,Cash,5.7
+846-10-0341,C,San Jose,Normal,Female,Fashion accessories,42.57,7,312.89,06/01/19,11:51:00,Cash,6.8
+577-34-7579,A,Dallas,Member,Male,Food and beverages,50.49,9,477.13,10/01/19,17:16:00,Cash,5.4
+430-02-3888,E,Chicago,Normal,Male,Electronic accessories,46.02,6,289.93,07/02/19,15:55:00,Cash,7.1
+867-47-1948,C,Dallas,Normal,Female,Home and lifestyle,15.8,10,165.90,09/01/19,12:07:00,Cash,7.8
+384-59-6655,A,Los Angeles,Member,Female,Food and beverages,98.66,9,932.34,19/02/19,15:07:00,Cash,8.4
+256-58-3609,E,Houston,Member,Male,Fashion accessories,91.98,1,96.58,18/03/19,15:29:00,Cash,9.8
+324-92-3863,C,New York,Member,Male,Electronic accessories,20.89,2,43.87,05/02/19,18:45:00,Cash,9.8
+593-08-5916,D,San Diego,Normal,Female,Fashion accessories,15.5,1,16.28,19/03/19,15:23:00,Credit card,7.4
+364-34-2972,A,Houston,Member,Male,Electronic accessories,96.82,3,304.98,30/03/19,20:37:00,Cash,6.7
+794-42-3736,B,San Antonio,Normal,Male,Food and beverages,33.33,2,69.99,26/01/19,14:41:00,Credit card,6.4
+172-42-8274,D,Chicago,Normal,Female,Electronic accessories,38.27,2,80.37,02/03/19,18:18:00,Credit card,5.8
+558-60-5016,C,Los Angeles,Normal,Female,Home and lifestyle,33.3,9,314.69,04/03/19,15:27:00,Ewallet,7.2
+195-06-0432,D,San Diego,Member,Male,Home and lifestyle,81.01,3,255.18,13/01/19,12:55:00,Credit card,9.3
+605-03-2706,D,Los Angeles,Normal,Female,Health and beauty,15.8,3,49.77,25/03/19,18:02:00,Cash,9.5
+214-30-2776,A,San Diego,Member,Female,Electronic accessories,34.49,5,181.07,11/03/19,19:44:00,Credit card,9
+746-04-1077,D,Phoenix,Member,Female,Food and beverages,84.63,10,888.62,01/01/19,11:36:00,Credit card,9
+448-34-8700,D,Chicago,Member,Male,Home and lifestyle,36.91,7,271.29,10/02/19,13:51:00,Ewallet,6.7
+452-04-8808,B,San Diego,Normal,Male,Electronic accessories,87.08,7,640.04,26/01/19,15:17:00,Cash,5.5
+531-56-4728,A,San Antonio,Normal,Male,Home and lifestyle,80.08,3,252.25,11/02/19,15:29:00,Cash,5.4
+744-82-9138,C,Los Angeles,Normal,Male,Fashion accessories,86.13,2,180.87,07/02/19,17:59:00,Cash,8.2
+883-69-1285,E,Dallas,Member,Male,Fashion accessories,49.92,2,104.83,06/03/19,11:55:00,Credit card,7
+221-25-5073,A,Los Angeles,Normal,Female,Food and beverages,74.66,4,313.57,04/03/19,10:39:00,Cash,8.5
+518-71-6847,C,San Diego,Member,Male,Food and beverages,26.6,6,167.58,26/02/19,15:10:00,Ewallet,4.9
+156-20-0370,C,Los Angeles,Normal,Female,Electronic accessories,25.45,1,26.72,10/03/19,18:10:00,Credit card,5.1
+151-33-7434,B,Phoenix,Normal,Female,Food and beverages,67.77,1,71.16,04/02/19,20:43:00,Credit card,6.5
+728-47-9078,C,San Jose,Member,Male,Food and beverages,59.59,4,250.28,19/01/19,12:46:00,Cash,9.8
+809-46-1866,E,Philadelphia,Normal,Male,Health and beauty,58.15,4,244.23,23/01/19,17:44:00,Cash,8.4
+139-32-4183,E,Philadelphia,Member,Female,Sports and travel,97.48,9,921.19,14/03/19,14:19:00,Ewallet,7.4
+148-41-7930,E,Phoenix,Normal,Male,Health and beauty,99.96,7,734.71,23/01/19,10:33:00,Cash,6.1
+189-40-5216,C,Houston,Normal,Male,Electronic accessories,96.37,7,708.32,09/01/19,11:40:00,Cash,6
+374-38-5555,A,Phoenix,Normal,Female,Fashion accessories,63.71,5,334.48,07/02/19,19:30:00,Ewallet,8.5
+764-44-8999,E,San Diego,Normal,Female,Health and beauty,14.76,2,31.00,18/02/19,14:42:00,Ewallet,4.3
+552-44-5977,A,San Jose,Member,Male,Health and beauty,62,8,520.80,03/01/19,19:08:00,Credit card,6.2
+267-62-7380,A,Los Angeles,Member,Male,Electronic accessories,82.34,10,864.57,29/03/19,19:12:00,Ewallet,4.3
+430-53-4718,B,Dallas,Member,Male,Health and beauty,75.37,8,633.11,28/01/19,15:46:00,Credit card,8.4
+886-18-2897,D,Dallas,Normal,Female,Food and beverages,56.56,5,296.94,22/03/19,19:06:00,Credit card,4.5
+602-16-6955,B,San Antonio,Normal,Female,Sports and travel,76.6,10,804.30,24/01/19,18:10:00,Ewallet,6
+745-74-0715,A,San Antonio,Normal,Male,Electronic accessories,58.03,2,121.86,10/03/19,20:46:00,Ewallet,8.8
+690-01-6631,E,San Antonio,Normal,Male,Fashion accessories,17.49,10,183.65,22/02/19,18:35:00,Ewallet,6.6
+652-49-6720,A,New York,Member,Female,Electronic accessories,60.95,1,64.00,18/02/19,11:40:00,Ewallet,5.9
+233-67-5758,B,Houston,Normal,Male,Health and beauty,40.35,1,42.37,29/01/19,13:46:00,Ewallet,6.2
+303-96-2227,A,Los Angeles,Normal,Female,Home and lifestyle,97.38,10,1022.49,02/03/19,17:16:00,Ewallet,4.4
+727-02-1313,D,San Diego,Member,Male,Food and beverages,31.84,1,33.43,09/02/19,13:22:00,Cash,7.7
+347-56-2442,D,Philadelphia,Normal,Male,Home and lifestyle,65.82,1,69.11,22/02/19,15:33:00,Cash,4.1
+849-09-3807,D,Chicago,Member,Female,Fashion accessories,88.34,7,649.30,18/02/19,13:28:00,Cash,6.6
