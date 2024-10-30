@@ -1,0 +1,18 @@
+﻿invoice_id,branch,city,gender,total,date,payment_method,rating
+5,A,Chicago,Male,46.00,2019-02-08,Ewallet,5.3
+6,B,Philadelphia,Male,33.00,2019-03-25,Ewallet,4.1
+7,C,Los Angeles,Female,44.00,2019-02-25,Ewallet,5.8
+8,D,Philadelphia,Female,53.00,2019-02-24,Ewallet,8
+9,A,New York,Female,83.00,2019-01-10,Credit card,7.2
+14,B,Chicago,Male,60.00,2019-02-07,Ewallet,8.2
+15,C,San Diego,Female,27.00,2019-03-29,Cash,5.7
+16,B,New York,Female,44.00,2019-01-15,Cash,4.5
+17,B,Los Angeles,Female,40.00,2019-03-11,Credit card,4.6
+18,C,Houston,Male,34.00,2019-01-01,Credit card,6.9
+19,C,Phoenix,Male,45.00,2019-01-21,Credit card,8.6
+14,B,Chicago,Male,33.00,2019-02-07,Ewallet,8.2
+15,C,San Diego,Female,32.00,2019-03-29,Cash,5.7
+16,B,New York,Female,40.00,2019-01-15,Cash,4.5
+17,B,Los Angeles,Female,75.00,2019-03-11,Credit card,4.6
+18,C,Houston,Male,31.00,2019-01-01,Credit card,6.9
+19,C,Phoenix,Male,68.00,2019-01-21,Credit card,8.6
